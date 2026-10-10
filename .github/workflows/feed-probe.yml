@@ -1,0 +1,59 @@
+name: Feed probe
+
+# Started by hand: GitHub -> Actions -> "Feed probe" -> Run workflow.
+# It downloads one Admitad product feed from data/feeds.json and saves a plain report (columns, prices, samples,
+# download time) to reports/feed-report.md in this repository. Nothing else is touched.
+# The access key comes from GitHub Secrets (ADMITAD_FEED_USER, ADMITAD_FEED_CODE) and is never printed or saved.
+# This repository is public on purpose: Actions minutes are free and unlimited here, so the heavy feed downloads cost nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      store:
+        description: 'Store key from data/feeds.json'
+        required: true
+        default: 'kinguin'
+      feed:
+        description: 'Feed key of that store'
+        required: true
+        default: 'us'
+
+permissions:
+  contents: write # to save the report to main
+
+concurrency:
+  group: feed-probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Look at the feed
+        env:
+          ADMITAD_FEED_USER: ${{ secrets.ADMITAD_FEED_USER }}
+          ADMITAD_FEED_CODE: ${{ secrets.ADMITAD_FEED_CODE }}
+          STORE: ${{ inputs.store }}
+          FEED: ${{ inputs.feed }}
+        run: node scripts/feed-probe.mjs "$STORE" "$FEED"
+
+      - name: Save the report
+        run: |
+          git config user.name "saveandplay-bot"
+          git config user.email "bot@saveandplay.com"
+          git add reports/feed-report.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Feed report $(date -u +%F)"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
