@@ -1,0 +1,18 @@
+{
+  "about": "Rules of scripts/kinguin-deals.mjs (it runs every morning and writes data/kinguin.json). feed = which feed of data/feeds.json (kinguin) to read. Stage 1, from the feed only: platforms = only keys for these platforms; regionMustContain = the region text must contain one of these words (case does not matter) and the product must have no country limits; minPrice and maxPrice = Kinguin price in USD; excludeNames = words in a product name that mean it is not a plain game key. Stage 2, Steam price: minSteamPrice = the current Steam price in USD must be at least this (cheap games have no room for a real saving); minSavingsPct = the Kinguin key must be at least this % cheaper than the CURRENT Steam price (the Steam price already includes any Steam sale). maxPriceChecks = safety limit for how many games we ask Steam about. Stage 3, quality, checked in order of biggest saving until maxOutput games are accepted: maxDetailChecks = safety limit of games we look at one by one (each costs ~3 s); minReviews and minPositive = Steam reviews (same as the main site rules); adultFlags = Steam content flags we never show; minStock = keys in stock. maxOutput = the most games written to data/kinguin.json. The main site decides how many of them it shows (maxNew per day, maxTotal).",
+  "feed": "us",
+  "platforms": ["Steam"],
+  "regionMustContain": ["REGION FREE", "GLOBAL"],
+  "minPrice": 3,
+  "maxPrice": 80,
+  "excludeNames": ["gift", "account", "soundtrack", "season pass", "dlc", "upgrade", "artbook", "wallpaper"],
+  "minSteamPrice": 8,
+  "minSavingsPct": 30,
+  "maxPriceChecks": 40000,
+  "maxDetailChecks": 150,
+  "minReviews": 500,
+  "minPositive": 80,
+  "adultFlags": [1, 3, 4],
+  "minStock": 1,
+  "maxOutput": 40
+}
