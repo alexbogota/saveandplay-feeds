@@ -1,10 +1,13 @@
 // Every morning: reads the Kinguin product feed (Admitad), keeps the PC games whose key is clearly cheaper than the
-// CURRENT Steam price, checks them on Steam (reviews, content flags), and writes a small file: data/kinguin.json.
+// CURRENT Steam price (but not absurdly cheaper), checks them on Steam (reviews, content flags), ranks them by how well
+// known the game is (number of Steam reviews), and writes a small file: data/kinguin.json.
 // The main site (private repository) reads that file. Everything slow and heavy happens here, in the public repository,
 // where GitHub Actions minutes are free.
 //
 // Why we compare with Steam: the feed has no old price. Its "discount" is counted from Kinguin's own "market price",
 // which is not a price anyone paid, so we never show it. "Cheaper than Steam today" is a number the buyer can check.
+// Keys MORE than maxSavingsPct cheaper than Steam are dropped: Kinguin keys come from private sellers, and prices that low
+// usually mean cheap-region or otherwise doubtful keys (see docs in the main repository, decision of 11 Oct 2026).
 //
 // Secrets come from the environment (GitHub Secrets): ADMITAD_FEED_USER, ADMITAD_FEED_CODE. They are never written anywhere.
 // Settings: data/kinguin-rules.json (thresholds), data/feeds.json (feed numbers).
@@ -92,7 +95,7 @@ const steam = await createSteam();
 const ids = [...best.keys()].slice(0, rules.maxPriceChecks);
 console.log(`Asking Steam for the price of ${ids.length} games …`);
 const prices = await steam.prices(ids);
-const stage2 = { asked: ids.length, noSteamPrice: 0, steamUnknown: 0, steamTooCheap: 0, notCheaperEnough: 0, passed: 0 };
+const stage2 = { asked: ids.length, noSteamPrice: 0, steamUnknown: 0, steamTooCheap: 0, notCheaperEnough: 0, tooGoodToBeTrue: 0, passed: 0 };
 const cheaper = [];
 for (const id of ids) {
   const p = prices.get(id);
@@ -102,16 +105,20 @@ for (const id of ids) {
   if (p.final < rules.minSteamPrice) { stage2.steamTooCheap++; continue; }
   const savingsPct = Math.round((1 - k.price / p.final) * 100);
   if (savingsPct < rules.minSavingsPct) { stage2.notCheaperEnough++; continue; }
+  if (savingsPct > rules.maxSavingsPct) { stage2.tooGoodToBeTrue++; continue; }
   stage2.passed++;
   cheaper.push({ ...k, steamPrice: p.final, steamWas: p.initial, steamDiscountPct: p.discountPct, savingsPct });
 }
-cheaper.sort((a, b) => b.savingsPct - a.savingsPct || b.steamPrice - a.steamPrice);
+// Bigger (higher list price) games first: they are better known. Cheaper-than-Steam share only breaks ties.
+cheaper.sort((a, b) => b.steamPrice - a.steamPrice || b.savingsPct - a.savingsPct);
 
-// ---------- stage 3: quality, biggest saving first ----------
+// ---------- stage 3: quality ----------
 const stage3 = { looked: 0, notAGame: 0, otherEdition: 0, adult: 0, fewReviews: 0, lowScore: 0, steamError: 0, accepted: 0 };
+const requestsBefore = steam.stats.requests;
+let stoppedByBudget = false;
 const deals = [];
 for (const c of cheaper) {
-  if (deals.length >= rules.maxOutput || stage3.looked >= rules.maxDetailChecks) break;
+  if (steam.stats.requests - requestsBefore >= rules.maxSteamRequests) { stoppedByBudget = true; break; }
   stage3.looked++;
   try {
     const app = await steam.details(c.steamId);
@@ -147,13 +154,16 @@ for (const c of cheaper) {
   }
 }
 await steam.save();
+// Best known games first.
+deals.sort((a, b) => b.reviews.total - a.reviews.total || b.savingsPct - a.savingsPct);
+deals.length = Math.min(deals.length, rules.maxOutput);
 
 // ---------- write ----------
 mkdirSync('reports', { recursive: true });
 const out = {
   generatedAt: new Date().toISOString(),
   feed: { store: 'kinguin', feed: rules.feed, id: feedId, products: funnel.feedProducts, megabytes: Math.round(dl.bytes / 1e5) / 10, seconds: feedSeconds, lastModifiedInFeed: feedModified ? new Date(feedModified * 1000).toISOString() : null },
-  rules: { minSteamPrice: rules.minSteamPrice, minSavingsPct: rules.minSavingsPct, minReviews: rules.minReviews, minPositive: rules.minPositive },
+  rules: { minSteamPrice: rules.minSteamPrice, minSavingsPct: rules.minSavingsPct, maxSavingsPct: rules.maxSavingsPct, minReviews: rules.minReviews, minPositive: rules.minPositive },
   count: deals.length,
   deals,
 };
@@ -162,7 +172,7 @@ writeFileSync('data/kinguin.json', JSON.stringify(out, null, 1) + '\n');
 const summary = [
   `# Kinguin deals, ${out.generatedAt.slice(0, 10)}`,
   '',
-  `Games written to data/kinguin.json: **${deals.length}**. Feed: ${out.feed.products} products, ${out.feed.megabytes} MB, ${feedSeconds} s. Steam requests: ${steam.stats.requests} (failed: ${steam.stats.failed}).`,
+  `Games written to data/kinguin.json: **${deals.length}**${stoppedByBudget ? ' (the Steam request budget ran out; the rest will be looked at on the next runs)' : ''}. Feed: ${out.feed.products} products, ${out.feed.megabytes} MB, ${feedSeconds} s. Steam requests: ${steam.stats.requests} (failed: ${steam.stats.failed}).`,
   '',
   '| Step | Count |', '|---|---|',
   ...Object.entries(funnel).map(([k, n]) => `| feed: ${k} | ${n} |`),
