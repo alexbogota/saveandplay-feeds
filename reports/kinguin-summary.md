@@ -1,6 +1,6 @@
-# Kinguin deals, 2026-10-10
+# Kinguin deals, 2026-10-11
 
-Games written to data/kinguin.json: **31**. Feed: 139761 products, 195.6 MB, 228 s. Steam requests: 388 (failed: 0).
+Games written to data/kinguin.json: **31**. Feed: 139761 products, 195.6 MB, 138 s. Steam requests: 124 (failed: 0).
 
 | Step | Count |
 |---|---|
@@ -19,9 +19,9 @@ Games written to data/kinguin.json: **31**. Feed: 139761 products, 195.6 MB, 228
 | steam price: asked | 12341 |
 | steam price: noSteamPrice | 1666 |
 | steam price: steamUnknown | 0 |
-| steam price: steamTooCheap | 3130 |
+| steam price: steamTooCheap | 3131 |
 | steam price: notCheaperEnough | 2283 |
-| steam price: passed | 5262 |
+| steam price: passed | 5261 |
 | quality: looked | 150 |
 | quality: notAGame | 1 |
 | quality: otherEdition | 23 |
