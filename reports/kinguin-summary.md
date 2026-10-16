@@ -1,41 +1,42 @@
-# Kinguin deals, 2026-10-15
+# Kinguin deals, 2026-10-16
 
-Games written to data/kinguin.json: **40** (the Steam request budget ran out; the rest will be looked at on the next runs). Feed: 130258 products, 183.9 MB, 160 s. Steam requests: 1012 (failed: 0).
+Games written to data/kinguin.json: **40** (the Steam request budget ran out; the rest will be looked at on the next runs). Feed: 140187 products, 196.2 MB, 125 s. Steam requests: 1023 (failed: 0).
 
 | Step | Count |
 |---|---|
-| feed: feedProducts | 130258 |
-| feed: available | 130258 |
-| feed: gameCategory | 57981 |
-| feed: rightPlatform | 43787 |
-| feed: instantDelivery | 43568 |
-| feed: inStock | 43568 |
-| feed: regionFree | 29930 |
-| feed: noCountryLimits | 29923 |
-| feed: steamApp | 27476 |
-| feed: nameOk | 25758 |
-| feed: priceInRange | 11735 |
-| feed: uniqueGames | 11171 |
-| steam price: asked | 11171 |
-| steam price: noSteamPrice | 1577 |
+| feed: feedProducts | 140187 |
+| feed: available | 140187 |
+| feed: gameCategory | 63679 |
+| feed: rightPlatform | 48740 |
+| feed: instantDelivery | 48446 |
+| feed: inStock | 48446 |
+| feed: regionFree | 34306 |
+| feed: noCountryLimits | 34297 |
+| feed: steamApp | 31713 |
+| feed: nameOk | 29917 |
+| feed: priceInRange | 12788 |
+| feed: uniqueGames | 12214 |
+| steam price: asked | 12214 |
+| steam price: noSteamPrice | 1652 |
 | steam price: steamUnknown | 0 |
-| steam price: steamTooCheap | 2853 |
-| steam price: notCheaperEnough | 2165 |
-| steam price: tooGoodToBeTrue | 229 |
-| steam price: passed | 4347 |
-| quality: looked | 2344 |
-| quality: notAGame | 3 |
-| quality: otherEdition | 259 |
-| quality: adult | 172 |
-| quality: fewReviews | 964 |
-| quality: lowScore | 314 |
+| steam price: steamTooCheap | 3352 |
+| steam price: notCheaperEnough | 2240 |
+| steam price: tooGoodToBeTrue | 233 |
+| steam price: passed | 4737 |
+| quality: looked | 2824 |
+| quality: notAGame | 5 |
+| quality: otherEdition | 296 |
+| quality: adult | 196 |
+| quality: fewReviews | 1241 |
+| quality: lowScore | 341 |
 | quality: steamError | 0 |
-| quality: accepted | 632 |
+| quality: accepted | 745 |
 
 | Game | Kinguin | Steam now | Cheaper | Reviews |
 |---|---|---|---|---|
 | Black Myth: Wukong | $38.39 | $59.99 | 36% | 96% of 1213653 |
 | Euro Truck Simulator 2 | $10.61 | $19.99 | 47% | 97% of 948837 |
+| Don't Starve Together | $6.75 | $14.99 | 55% | 95% of 544577 |
 | No Man's Sky | $20.21 | $59.99 | 66% | 85% of 422772 |
 | 7 Days to Die | $18.02 | $44.99 | 60% | 87% of 402007 |
 | Subnautica | $4.99 | $29.99 | 83% | 97% of 381608 |
@@ -60,17 +61,16 @@ Games written to data/kinguin.json: **40** (the Steam request budget ran out; th
 | Inscryption | $7.10 | $19.99 | 64% | 97% of 149282 |
 | Kerbal Space Program | $6.91 | $39.99 | 83% | 96% of 147808 |
 | Black Mesa | $7.37 | $19.99 | 63% | 95% of 145237 |
+| ASTRONEER | $5.95 | $29.99 | 80% | 92% of 139753 |
 | Space Engineers | $9.33 | $19.99 | 53% | 89% of 134566 |
 | Insurgency | $3.30 | $14.99 | 78% | 92% of 124556 |
+| The Long Dark | $7.20 | $19.99 | 64% | 89% of 124262 |
 | Grim Dawn | $11.64 | $24.99 | 53% | 93% of 110270 |
 | Subnautica: Below Zero | $13.68 | $29.99 | 54% | 90% of 108652 |
 | Gunfire Reborn | $11.07 | $19.99 | 45% | 93% of 103811 |
 | Planet Zoo | $9.66 | $44.99 | 79% | 91% of 98055 |
 | Age of Empires IV: Anniversary Edition | $16.19 | $39.99 | 60% | 86% of 96097 |
+| Total War: THREE KINGDOMS | $10.97 | $39.99 | 73% | 82% of 93969 |
 | Farming Simulator 22 | $6.89 | $19.99 | 66% | 93% of 93175 |
 | Barotrauma | $9.74 | $34.99 | 72% | 94% of 90340 |
 | CarX Drift Racing Online | $11.25 | $16.99 | 34% | 95% of 89521 |
-| Supermarket Simulator | $9.73 | $19.99 | 51% | 92% of 84556 |
-| Lies of P | $21.64 | $59.99 | 64% | 92% of 83750 |
-| Party Animals | $9.95 | $19.99 | 50% | 80% of 79818 |
-| Farming Simulator 19 | $7.48 | $17.99 | 58% | 94% of 76423 |
