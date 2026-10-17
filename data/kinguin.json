@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-10-16T09:27:38.079Z",
+ "generatedAt": "2026-10-17T09:21:03.866Z",
  "feed": {
   "store": "kinguin",
   "feed": "us",
   "id": 25658,
-  "products": 140187,
-  "megabytes": 196.2,
-  "seconds": 125,
-  "lastModifiedInFeed": "2026-10-15T08:09:21.000Z"
+  "products": 141625,
+  "megabytes": 198.5,
+  "seconds": 178,
+  "lastModifiedInFeed": "2026-10-16T21:16:23.000Z"
  },
  "rules": {
   "minSteamPrice": 8,
@@ -23,7 +23,7 @@
    "title": "Black Myth: Wukong",
    "kinguinName": "Black Myth: Wukong PC Steam CD Key",
    "kinguinId": "263403",
-   "price": 38.39,
+   "price": 38.41,
    "steamPrice": 59.99,
    "steamWas": 59.99,
    "steamDiscountPct": 0,
@@ -32,18 +32,18 @@
     "total": 1213653,
     "positivePct": 96
    },
-   "stock": 1519,
+   "stock": 1502,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F263403%2Fblack-myth-wukong-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1760601605",
-   "checkedAt": "2026-10-16T09:05:11.025Z"
+   "checkedAt": "2026-10-17T08:58:39.822Z"
   },
   {
    "steamId": 227300,
    "title": "Euro Truck Simulator 2",
    "kinguinName": "Euro Truck Simulator 2 PC Steam CD Key",
    "kinguinId": "329",
-   "price": 10.61,
+   "price": 10.59,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
@@ -52,18 +52,38 @@
     "total": 948837,
     "positivePct": 97
    },
-   "stock": 2808,
+   "stock": 3209,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F329%2Feuro-truck-simulator-2-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1791702263",
-   "checkedAt": "2026-10-16T09:07:39.514Z"
+   "checkedAt": "2026-10-17T08:59:27.820Z"
+  },
+  {
+   "steamId": 367520,
+   "title": "Hollow Knight",
+   "kinguinName": "Hollow Knight PC Steam CD Key",
+   "kinguinId": "34325",
+   "price": 9.07,
+   "steamPrice": 14.99,
+   "steamWas": 14.99,
+   "steamDiscountPct": 0,
+   "savingsPct": 39,
+   "reviews": {
+    "total": 565451,
+    "positivePct": 97
+   },
+   "stock": 2876,
+   "region": "Steam REGION FREE",
+   "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F34325%2Fhollow-knight-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+   "checkedAt": "2026-10-17T09:03:18.807Z"
   },
   {
    "steamId": 322330,
    "title": "Don't Starve Together",
    "kinguinName": "Don't Starve Together PC Steam CD Key",
    "kinguinId": "113839",
-   "price": 6.75,
+   "price": 6.69,
    "steamPrice": 14.99,
    "steamWas": 14.99,
    "steamDiscountPct": 0,
@@ -72,38 +92,38 @@
     "total": 544577,
     "positivePct": 95
    },
-   "stock": 254,
+   "stock": 246,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F113839%2Fdon-t-starve-together-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg?t=1790287771",
-   "checkedAt": "2026-10-16T09:21:17.058Z"
+   "checkedAt": "2026-10-17T09:00:15.809Z"
   },
   {
    "steamId": 275850,
    "title": "No Man's Sky",
    "kinguinName": "No Man's Sky PC Steam CD Key",
    "kinguinId": "27518",
-   "price": 20.21,
+   "price": 19.66,
    "steamPrice": 59.99,
    "steamWas": 59.99,
    "steamDiscountPct": 0,
-   "savingsPct": 66,
+   "savingsPct": 67,
    "reviews": {
     "total": 422772,
     "positivePct": 85
    },
-   "stock": 1279,
+   "stock": 662,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F27518%2Fno-man-s-sky-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
-   "checkedAt": "2026-10-16T09:05:11.024Z"
+   "checkedAt": "2026-10-17T08:58:39.822Z"
   },
   {
    "steamId": 251570,
    "title": "7 Days to Die",
    "kinguinName": "7 Days to Die Steam CD Key",
    "kinguinId": "4470",
-   "price": 18.02,
+   "price": 17.91,
    "steamPrice": 44.99,
    "steamWas": 44.99,
    "steamDiscountPct": 0,
@@ -112,18 +132,18 @@
     "total": 402007,
     "positivePct": 87
    },
-   "stock": 1346,
+   "stock": 1239,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F4470%2F7-days-to-die-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1788209289",
-   "checkedAt": "2026-10-16T09:05:14.098Z"
+   "checkedAt": "2026-10-17T08:58:39.824Z"
   },
   {
    "steamId": 264710,
    "title": "Subnautica",
    "kinguinName": "Subnautica PC Steam CD Key",
    "kinguinId": "28424",
-   "price": 4.99,
+   "price": 5.06,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
@@ -132,18 +152,18 @@
     "total": 381608,
     "positivePct": 97
    },
-   "stock": 4114,
+   "stock": 4429,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F28424%2Fsubnautica-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
-   "checkedAt": "2026-10-16T09:05:45.523Z"
+   "checkedAt": "2026-10-17T08:58:51.824Z"
   },
   {
    "steamId": 548430,
    "title": "Deep Rock Galactic",
    "kinguinName": "Deep Rock Galactic PC Steam CD Key",
    "kinguinId": "46333",
-   "price": 8.04,
+   "price": 8.13,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
@@ -152,38 +172,38 @@
     "total": 380861,
     "positivePct": 97
    },
-   "stock": 2203,
+   "stock": 2149,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F46333%2Fdeep-rock-galactic-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1791554128",
-   "checkedAt": "2026-10-16T09:05:57.493Z"
+   "checkedAt": "2026-10-17T08:58:51.825Z"
   },
   {
    "steamId": 49520,
    "title": "Borderlands 2",
    "kinguinName": "Borderlands 2 Steam CD Key",
    "kinguinId": "24",
-   "price": 3.72,
+   "price": 3.47,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
-   "savingsPct": 81,
+   "savingsPct": 83,
    "reviews": {
     "total": 312858,
     "positivePct": 90
    },
-   "stock": 509,
+   "stock": 450,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F24%2Fborderlands-2-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279",
-   "checkedAt": "2026-10-16T09:06:41.009Z"
+   "checkedAt": "2026-10-17T08:59:21.877Z"
   },
   {
    "steamId": 261550,
    "title": "Mount & Blade II: Bannerlord",
    "kinguinName": "Mount & Blade II: Bannerlord PC Steam CD Key",
    "kinguinId": "72024",
-   "price": 18.68,
+   "price": 18.63,
    "steamPrice": 49.99,
    "steamWas": 49.99,
    "steamDiscountPct": 0,
@@ -192,18 +212,18 @@
     "total": 299176,
     "positivePct": 88
    },
-   "stock": 2222,
+   "stock": 1961,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F72024%2Fmount-blade-ii-bannerlord-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300",
-   "checkedAt": "2026-10-16T09:05:12.494Z"
+   "checkedAt": "2026-10-17T08:58:39.823Z"
   },
   {
    "steamId": 107410,
    "title": "Arma 3",
    "kinguinName": "Arma 3 PC Steam CD Key",
    "kinguinId": "2578",
-   "price": 11.97,
+   "price": 11.92,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
@@ -212,11 +232,11 @@
     "total": 295960,
     "positivePct": 90
    },
-   "stock": 919,
+   "stock": 891,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F2578%2Farma-3-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg?t=1786458620",
-   "checkedAt": "2026-10-16T09:06:15.497Z"
+   "checkedAt": "2026-10-17T08:58:53.408Z"
   },
   {
    "steamId": 255710,
@@ -232,38 +252,38 @@
     "total": 291109,
     "positivePct": 93
    },
-   "stock": 141,
+   "stock": 133,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F146497%2Fcities-skylines-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1791468493",
-   "checkedAt": "2026-10-16T09:05:57.493Z"
+   "checkedAt": "2026-10-17T08:58:51.825Z"
   },
   {
    "steamId": 526870,
    "title": "Satisfactory",
    "kinguinName": "Satisfactory PC Steam CD Key",
    "kinguinId": "74406",
-   "price": 24.64,
+   "price": 25.21,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
-   "savingsPct": 38,
+   "savingsPct": 37,
    "reviews": {
     "total": 280899,
     "positivePct": 97
    },
-   "stock": 1624,
+   "stock": 1145,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F74406%2Fsatisfactory-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
-   "checkedAt": "2026-10-16T09:05:36.511Z"
+   "checkedAt": "2026-10-17T08:58:48.890Z"
   },
   {
    "steamId": 1222140,
    "title": "Detroit: Become Human",
    "kinguinName": "Detroit: Become Human PC Steam CD Key",
    "kinguinId": "78715",
-   "price": 6.59,
+   "price": 6.46,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
@@ -272,62 +292,62 @@
     "total": 266641,
     "positivePct": 96
    },
-   "stock": 587,
+   "stock": 588,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F78715%2Fdetroit-become-human-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
-   "checkedAt": "2026-10-16T09:05:14.098Z"
+   "checkedAt": "2026-10-17T08:58:42.805Z"
   },
   {
    "steamId": 1229490,
    "title": "ULTRAKILL",
    "kinguinName": "ULTRAKILL Steam CD Key",
    "kinguinId": "76784",
-   "price": 8.78,
+   "price": 8.44,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
-   "savingsPct": 71,
+   "savingsPct": 72,
    "reviews": {
     "total": 246427,
     "positivePct": 97
    },
-   "stock": 816,
+   "stock": 1971,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F76784%2Fultrakill-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg?t=1783942574",
-   "checkedAt": "2026-10-16T09:06:03.694Z"
+   "checkedAt": "2026-10-17T08:58:51.825Z"
   },
   {
    "steamId": 393380,
    "title": "Squad",
    "kinguinName": "Squad PC Steam CD Key",
    "kinguinId": "23031",
-   "price": 15.45,
+   "price": 15.37,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
-   "savingsPct": 61,
+   "savingsPct": 62,
    "reviews": {
     "total": 245387,
     "positivePct": 81
    },
-   "stock": 740,
+   "stock": 734,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F23031%2Fsquad-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/0b19b50aabea356bd8f534fbe7d6db9bd227810a/header.jpg?t=1790892056",
-   "checkedAt": "2026-10-16T09:05:36.510Z"
+   "checkedAt": "2026-10-17T08:58:45.809Z"
   },
   {
    "steamId": 883710,
    "title": "Resident Evil 2",
    "kinguinName": "Resident Evil 2 Steam CD Key",
    "kinguinId": "153769",
-   "price": 9.11,
+   "price": 8.86,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
-   "savingsPct": 77,
+   "savingsPct": 78,
    "reviews": {
     "total": 225954,
     "positivePct": 97
@@ -336,14 +356,14 @@
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F153769%2Fresident-evil-2-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
-   "checkedAt": "2026-10-16T09:05:17.002Z"
+   "checkedAt": "2026-10-17T08:58:42.805Z"
   },
   {
    "steamId": 268910,
    "title": "Cuphead",
    "kinguinName": "Cuphead Steam CD Key",
    "kinguinId": "41472",
-   "price": 11.6,
+   "price": 11.61,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
@@ -352,18 +372,18 @@
     "total": 222891,
     "positivePct": 96
    },
-   "stock": 1868,
+   "stock": 1890,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F41472%2Fcuphead-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
-   "checkedAt": "2026-10-16T09:07:39.514Z"
+   "checkedAt": "2026-10-17T08:59:27.821Z"
   },
   {
    "steamId": 646570,
    "title": "Slay the Spire",
    "kinguinName": "Slay the Spire PC Steam CD Key",
    "kinguinId": "43047",
-   "price": 7.32,
+   "price": 7.3,
    "steamPrice": 24.99,
    "steamWas": 24.99,
    "steamDiscountPct": 0,
@@ -372,38 +392,38 @@
     "total": 219366,
     "positivePct": 97
    },
-   "stock": 3587,
+   "stock": 3111,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F43047%2Fslay-the-spire-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
-   "checkedAt": "2026-10-16T09:06:25.990Z"
+   "checkedAt": "2026-10-17T08:59:04.055Z"
   },
   {
    "steamId": 782330,
    "title": "DOOM Eternal",
    "kinguinName": "DOOM Eternal PC Steam CD Key",
    "kinguinId": "81164",
-   "price": 8.81,
+   "price": 8.95,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
-   "savingsPct": 71,
+   "savingsPct": 70,
    "reviews": {
     "total": 217790,
     "positivePct": 91
    },
-   "stock": 2514,
+   "stock": 2499,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F81164%2Fdoom-eternal-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/feaf8293bcd2d078422faa547bc0d707c08f606e/header.jpg?t=1783432602",
-   "checkedAt": "2026-10-16T09:06:03.694Z"
+   "checkedAt": "2026-10-17T08:58:53.406Z"
   },
   {
    "steamId": 270880,
    "title": "American Truck Simulator",
    "kinguinName": "American Truck Simulator PC Steam CD Key",
    "kinguinId": "24172",
-   "price": 9.02,
+   "price": 8.99,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
@@ -412,38 +432,58 @@
     "total": 197876,
     "positivePct": 97
    },
-   "stock": 1467,
+   "stock": 1605,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F24172%2Famerican-truck-simulator-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/2cfd6711c21677e7611985d2bacc3a3bcfac2660/header_alt_assets_8.jpg?t=1790759835",
-   "checkedAt": "2026-10-16T09:07:27.471Z"
+   "checkedAt": "2026-10-17T08:59:27.818Z"
   },
   {
    "steamId": 281990,
    "title": "Stellaris",
    "kinguinName": "Stellaris PC Steam CD Key",
    "kinguinId": "26521",
-   "price": 15.99,
+   "price": 15.65,
    "steamPrice": 49.99,
    "steamWas": 49.99,
    "steamDiscountPct": 0,
-   "savingsPct": 68,
+   "savingsPct": 69,
    "reviews": {
     "total": 196674,
     "positivePct": 86
    },
-   "stock": 93,
+   "stock": 79,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F26521%2Fstellaris-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/a4bbb92c2bbe1f93adf38225b9321a64868099e6/header_alt_assets_14.jpg?t=1791480874",
-   "checkedAt": "2026-10-16T09:05:12.494Z"
+   "checkedAt": "2026-10-17T08:58:39.822Z"
+  },
+  {
+   "steamId": 588650,
+   "title": "Dead Cells",
+   "kinguinName": "Dead Cells PC Steam CD Key",
+   "kinguinId": "36740",
+   "price": 5.12,
+   "steamPrice": 24.99,
+   "steamWas": 24.99,
+   "steamDiscountPct": 0,
+   "savingsPct": 80,
+   "reviews": {
+    "total": 184236,
+    "positivePct": 97
+   },
+   "stock": 854,
+   "region": "Steam REGION FREE",
+   "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F36740%2Fdead-cells-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887",
+   "checkedAt": "2026-10-17T08:59:04.054Z"
   },
   {
    "steamId": 48700,
    "title": "Mount & Blade: Warband",
    "kinguinName": "Mount & Blade: Warband PC Steam CD Key",
    "kinguinId": "1785",
-   "price": 4.93,
+   "price": 4.94,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
@@ -452,18 +492,18 @@
     "total": 172437,
     "positivePct": 98
    },
-   "stock": 5234,
+   "stock": 5219,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F1785%2Fmount-blade-warband-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/header.jpg?t=1750147149",
-   "checkedAt": "2026-10-16T09:06:54.511Z"
+   "checkedAt": "2026-10-17T08:59:27.815Z"
   },
   {
    "steamId": 1196590,
    "title": "Resident Evil Village",
    "kinguinName": "Resident Evil Village Steam CD Key",
    "kinguinId": "85671",
-   "price": 11.98,
+   "price": 11.99,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
@@ -472,18 +512,18 @@
     "total": 155437,
     "positivePct": 96
    },
-   "stock": 26,
+   "stock": 25,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F85671%2Fresident-evil-village-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
-   "checkedAt": "2026-10-16T09:05:24.464Z"
+   "checkedAt": "2026-10-17T08:58:42.806Z"
   },
   {
    "steamId": 1057090,
    "title": "Ori and the Will of the Wisps",
    "kinguinName": "Ori and the Will of the Wisps Steam CD Key",
    "kinguinId": "114892",
-   "price": 7.16,
+   "price": 7.13,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
@@ -496,7 +536,7 @@
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F114892%2Fori-and-the-will-of-the-wisps-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
-   "checkedAt": "2026-10-16T09:05:57.493Z"
+   "checkedAt": "2026-10-17T08:58:51.825Z"
   },
   {
    "steamId": 1092790,
@@ -512,18 +552,18 @@
     "total": 149282,
     "positivePct": 97
    },
-   "stock": 475,
+   "stock": 455,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F100481%2Finscryption-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
-   "checkedAt": "2026-10-16T09:07:11.006Z"
+   "checkedAt": "2026-10-17T08:59:27.817Z"
   },
   {
    "steamId": 220200,
    "title": "Kerbal Space Program",
    "kinguinName": "Kerbal Space Program Steam CD Key",
    "kinguinId": "4265",
-   "price": 6.91,
+   "price": 6.97,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
@@ -532,18 +572,18 @@
     "total": 147808,
     "positivePct": 96
    },
-   "stock": 1186,
+   "stock": 1187,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F4265%2Fkerbal-space-program-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg?t=1738037585",
-   "checkedAt": "2026-10-16T09:05:14.098Z"
+   "checkedAt": "2026-10-17T08:58:42.805Z"
   },
   {
    "steamId": 362890,
    "title": "Black Mesa",
    "kinguinName": "Black Mesa PC Steam CD Key",
    "kinguinId": "35811",
-   "price": 7.37,
+   "price": 7.33,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
@@ -552,11 +592,31 @@
     "total": 145237,
     "positivePct": 95
    },
-   "stock": 172,
+   "stock": 168,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F35811%2Fblack-mesa-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/674b9a0e7b31996efd5032dc15e695dbf457d71d/header.jpg?t=1790377127",
-   "checkedAt": "2026-10-16T09:07:17.024Z"
+   "checkedAt": "2026-10-17T08:59:27.817Z"
+  },
+  {
+   "steamId": 2527500,
+   "title": "MiSide",
+   "kinguinName": "MiSide PC Steam CD Key",
+   "kinguinId": "296447",
+   "price": 10.23,
+   "steamPrice": 14.99,
+   "steamWas": 14.99,
+   "steamDiscountPct": 0,
+   "savingsPct": 32,
+   "reviews": {
+    "total": 143400,
+    "positivePct": 98
+   },
+   "stock": 311,
+   "region": "Steam REGION FREE",
+   "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F296447%2Fmiside-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1792204652",
+   "checkedAt": "2026-10-17T09:06:35.311Z"
   },
   {
    "steamId": 361420,
@@ -572,18 +632,18 @@
     "total": 139753,
     "positivePct": 92
    },
-   "stock": 1521,
+   "stock": 1473,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F32526%2Fastroneer-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/1c44099d86c824a6fd1098a4215097878d68664e/header.jpg?t=1770767049",
-   "checkedAt": "2026-10-16T09:05:54.518Z"
+   "checkedAt": "2026-10-17T08:58:51.825Z"
   },
   {
    "steamId": 244850,
    "title": "Space Engineers",
    "kinguinName": "Space Engineers PC Steam CD Key",
    "kinguinId": "5536",
-   "price": 9.33,
+   "price": 9.34,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
@@ -592,18 +652,18 @@
     "total": 134566,
     "positivePct": 89
    },
-   "stock": 70,
+   "stock": 66,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F5536%2Fspace-engineers-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/3658a69c81af5f4014b0ffa88941285e74825b86/header.jpg?t=1785173739",
-   "checkedAt": "2026-10-16T09:07:30.479Z"
+   "checkedAt": "2026-10-17T08:59:27.819Z"
   },
   {
    "steamId": 222880,
    "title": "Insurgency",
    "kinguinName": "Insurgency PC Steam CD Key",
    "kinguinId": "4442",
-   "price": 3.3,
+   "price": 3.31,
    "steamPrice": 14.99,
    "steamWas": 14.99,
    "steamDiscountPct": 0,
@@ -612,31 +672,31 @@
     "total": 124556,
     "positivePct": 92
    },
-   "stock": 93,
+   "stock": 87,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F4442%2Finsurgency-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/222880/header.jpg?t=1758742858",
-   "checkedAt": "2026-10-16T09:08:46.976Z"
+   "checkedAt": "2026-10-17T08:59:59.313Z"
   },
   {
    "steamId": 305620,
    "title": "The Long Dark",
    "kinguinName": "The Long Dark PC Steam CD Key",
    "kinguinId": "10166",
-   "price": 7.2,
+   "price": 7.38,
    "steamPrice": 19.99,
    "steamWas": 19.99,
    "steamDiscountPct": 0,
-   "savingsPct": 64,
+   "savingsPct": 63,
    "reviews": {
     "total": 124262,
     "positivePct": 89
    },
-   "stock": 515,
+   "stock": 1464,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F10166%2Fthe-long-dark-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/6c82ea1073946b0e83974a0ae6bd9d29d93911f9/header.jpg?t=1792088805",
-   "checkedAt": "2026-10-16T09:07:14.009Z"
+   "checkedAt": "2026-10-17T08:59:27.817Z"
   },
   {
    "steamId": 219990,
@@ -652,18 +712,18 @@
     "total": 110270,
     "positivePct": 93
    },
-   "stock": 299,
+   "stock": 296,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F4305%2Fgrim-dawn-steam-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219990/header.jpg?t=1791567021",
-   "checkedAt": "2026-10-16T09:06:25.991Z"
+   "checkedAt": "2026-10-17T08:59:04.056Z"
   },
   {
    "steamId": 848450,
    "title": "Subnautica: Below Zero",
    "kinguinName": "Subnautica: Below Zero PC Steam CD Key",
    "kinguinId": "87179",
-   "price": 13.68,
+   "price": 13.81,
    "steamPrice": 29.99,
    "steamWas": 29.99,
    "steamDiscountPct": 0,
@@ -672,11 +732,11 @@
     "total": 108652,
     "positivePct": 90
    },
-   "stock": 534,
+   "stock": 439,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F87179%2Fsubnautica-below-zero-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg?t=1777456254",
-   "checkedAt": "2026-10-16T09:06:15.497Z"
+   "checkedAt": "2026-10-17T08:58:53.408Z"
   },
   {
    "steamId": 1217060,
@@ -692,131 +752,71 @@
     "total": 103811,
     "positivePct": 93
    },
-   "stock": 336,
+   "stock": 324,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F73988%2Fgunfire-reborn-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/dd6c1906d262c38c183ccd711f192db187b5103f/header.jpg?t=1789092024",
-   "checkedAt": "2026-10-16T09:07:39.514Z"
+   "checkedAt": "2026-10-17T08:59:27.820Z"
   },
   {
    "steamId": 703080,
    "title": "Planet Zoo",
    "kinguinName": "Planet Zoo PC Steam CD Key",
    "kinguinId": "68392",
-   "price": 9.66,
+   "price": 9.69,
    "steamPrice": 44.99,
    "steamWas": 44.99,
    "steamDiscountPct": 0,
-   "savingsPct": 79,
+   "savingsPct": 78,
    "reviews": {
     "total": 98055,
     "positivePct": 91
    },
-   "stock": 471,
+   "stock": 462,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F68392%2Fplanet-zoo-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg?t=1765896213",
-   "checkedAt": "2026-10-16T09:05:14.098Z"
+   "checkedAt": "2026-10-17T08:58:39.824Z"
   },
   {
    "steamId": 1466860,
    "title": "Age of Empires IV: Anniversary Edition",
    "kinguinName": "Age of Empires IV: Anniversary Edition PC Steam CD Key",
    "kinguinId": "140351",
-   "price": 16.19,
+   "price": 16.2,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
-   "savingsPct": 60,
+   "savingsPct": 59,
    "reviews": {
     "total": 96097,
     "positivePct": 86
    },
-   "stock": 2422,
+   "stock": 2499,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F140351%2Fage-of-empires-iv-anniversary-edition-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg?t=1780854334",
-   "checkedAt": "2026-10-16T09:05:36.510Z"
+   "checkedAt": "2026-10-17T08:58:45.809Z"
   },
   {
    "steamId": 779340,
    "title": "Total War: THREE KINGDOMS",
    "kinguinName": "Total War: THREE KINGDOMS PC Steam CD Key",
    "kinguinId": "63662",
-   "price": 10.97,
+   "price": 10.5,
    "steamPrice": 39.99,
    "steamWas": 39.99,
    "steamDiscountPct": 0,
-   "savingsPct": 73,
+   "savingsPct": 74,
    "reviews": {
     "total": 93969,
     "positivePct": 82
    },
-   "stock": 177,
+   "stock": 174,
    "region": "Steam REGION FREE",
    "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F63662%2Ftotal-war-three-kingdoms-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg?t=1780332718",
-   "checkedAt": "2026-10-16T09:05:23.004Z"
-  },
-  {
-   "steamId": 1248130,
-   "title": "Farming Simulator 22",
-   "kinguinName": "Farming Simulator 22 PC Steam CD Key",
-   "kinguinId": "89537",
-   "price": 6.89,
-   "steamPrice": 19.99,
-   "steamWas": 19.99,
-   "steamDiscountPct": 0,
-   "savingsPct": 66,
-   "reviews": {
-    "total": 93175,
-    "positivePct": 93
-   },
-   "stock": 1875,
-   "region": "Steam REGION FREE",
-   "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F89537%2Ffarming-simulator-22-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/7ff56320788fa4b1f46ac9a62ff955d3ef3f109c/header.jpg?t=1786456269",
-   "checkedAt": "2026-10-16T09:07:11.006Z"
-  },
-  {
-   "steamId": 602960,
-   "title": "Barotrauma",
-   "kinguinName": "Barotrauma PC Steam CD Key",
-   "kinguinId": "64156",
-   "price": 9.74,
-   "steamPrice": 34.99,
-   "steamWas": 34.99,
-   "steamDiscountPct": 0,
-   "savingsPct": 72,
-   "reviews": {
-    "total": 90340,
-    "positivePct": 94
-   },
-   "stock": 1106,
-   "region": "Steam REGION FREE",
-   "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F64156%2Fbarotrauma-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg?t=1791473680",
-   "checkedAt": "2026-10-16T09:05:39.510Z"
-  },
-  {
-   "steamId": 635260,
-   "title": "CarX Drift Racing Online",
-   "kinguinName": "CarX Drift Racing Online PC Steam CD Key",
-   "kinguinId": "59546",
-   "price": 11.25,
-   "steamPrice": 16.99,
-   "steamWas": 16.99,
-   "steamDiscountPct": 0,
-   "savingsPct": 34,
-   "reviews": {
-    "total": 89521,
-    "positivePct": 95
-   },
-   "stock": 443,
-   "region": "Steam REGION FREE",
-   "url": "https://ficca2021.com/g/ai7w5urbcic9990a3d5973f469699a/?f_id=25658&ulp=https%3A%2F%2Fwww.kinguin.net%2Fen%2Fcategory%2F59546%2Fcarx-drift-racing-online-pc-steam-cd-key%3Fnosalesbooster%3D1%26currency%3DUSD",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635260/7f8fd0c0df1572fa14c9505abe70e2a599cae8e7/header.jpg?t=1787303355",
-   "checkedAt": "2026-10-16T09:08:32.009Z"
+   "checkedAt": "2026-10-17T08:58:42.806Z"
   }
  ]
 }
