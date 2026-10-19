@@ -1,6 +1,6 @@
-# Kinguin deals, 2026-10-18
+# Kinguin deals, 2026-10-19
 
-Games written to data/kinguin.json: **40** (the Steam request budget ran out; the rest will be looked at on the next runs). Feed: 142190 products, 199.5 MB, 171 s. Steam requests: 1024 (failed: 0).
+Games written to data/kinguin.json: **40** (the Steam request budget ran out; the rest will be looked at on the next runs). Feed: 142190 products, 199.5 MB, 137 s. Steam requests: 1024 (failed: 0).
 
 | Step | Count |
 |---|---|
@@ -19,18 +19,18 @@ Games written to data/kinguin.json: **40** (the Steam request budget ran out; th
 | steam price: asked | 12346 |
 | steam price: noSteamPrice | 1664 |
 | steam price: steamUnknown | 0 |
-| steam price: steamTooCheap | 3434 |
-| steam price: notCheaperEnough | 2269 |
-| steam price: tooGoodToBeTrue | 222 |
-| steam price: passed | 4757 |
-| quality: looked | 3726 |
-| quality: notAGame | 5 |
-| quality: otherEdition | 347 |
-| quality: adult | 243 |
-| quality: fewReviews | 1877 |
-| quality: lowScore | 374 |
+| steam price: steamTooCheap | 3437 |
+| steam price: notCheaperEnough | 2273 |
+| steam price: tooGoodToBeTrue | 220 |
+| steam price: passed | 4752 |
+| quality: looked | 4195 |
+| quality: notAGame | 6 |
+| quality: otherEdition | 376 |
+| quality: adult | 262 |
+| quality: fewReviews | 2211 |
+| quality: lowScore | 404 |
 | quality: steamError | 0 |
-| quality: accepted | 880 |
+| quality: accepted | 936 |
 
 | Game | Kinguin | Steam now | Cheaper | Reviews |
 |---|---|---|---|---|
