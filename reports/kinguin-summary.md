@@ -1,6 +1,6 @@
-# Kinguin deals, 2026-10-20
+# Kinguin deals, 2026-10-21
 
-Games written to data/kinguin.json: **40** (the Steam request budget ran out; the rest will be looked at on the next runs). Feed: 142872 products, 200.4 MB, 197 s. Steam requests: 1024 (failed: 0).
+Games written to data/kinguin.json: **40**. Feed: 142872 products, 200.4 MB, 147 s. Steam requests: 657 (failed: 0).
 
 | Step | Count |
 |---|---|
@@ -17,23 +17,24 @@ Games written to data/kinguin.json: **40** (the Steam request budget ran out; th
 | feed: priceInRange | 12953 |
 | feed: uniqueGames | 12374 |
 | steam price: asked | 12374 |
-| steam price: noSteamPrice | 1666 |
+| steam price: noSteamPrice | 1668 |
 | steam price: steamUnknown | 0 |
-| steam price: steamTooCheap | 3366 |
-| steam price: notCheaperEnough | 2308 |
-| steam price: tooGoodToBeTrue | 221 |
-| steam price: passed | 4813 |
-| quality: looked | 4527 |
-| quality: notAGame | 7 |
-| quality: otherEdition | 401 |
-| quality: adult | 272 |
-| quality: fewReviews | 2446 |
-| quality: lowScore | 414 |
+| steam price: steamTooCheap | 3373 |
+| steam price: notCheaperEnough | 2306 |
+| steam price: tooGoodToBeTrue | 222 |
+| steam price: passed | 4805 |
+| quality: looked | 4805 |
+| quality: notAGame | 8 |
+| quality: otherEdition | 420 |
+| quality: adult | 286 |
+| quality: fewReviews | 2642 |
+| quality: lowScore | 428 |
 | quality: steamError | 0 |
-| quality: accepted | 987 |
+| quality: accepted | 1021 |
 
 | Game | Kinguin | Steam now | Cheaper | Reviews |
 |---|---|---|---|---|
+| Terraria | $7.02 | $9.99 | 30% | 97% of 1564155 |
 | Black Myth: Wukong | $38.60 | $59.99 | 36% | 96% of 1213653 |
 | Euro Truck Simulator 2 | $10.52 | $19.99 | 47% | 97% of 948837 |
 | Hollow Knight | $9.09 | $14.99 | 39% | 97% of 565451 |
@@ -51,7 +52,6 @@ Games written to data/kinguin.json: **40** (the Steam request budget ran out; th
 | Squad | $15.45 | $39.99 | 61% | 81% of 245387 |
 | Resident Evil 2 | $9.63 | $39.99 | 76% | 97% of 225954 |
 | Cuphead | $11.66 | $19.99 | 42% | 96% of 222891 |
-| Slay the Spire | $7.70 | $24.99 | 69% | 97% of 219366 |
 | DOOM Eternal | $9.11 | $29.99 | 70% | 91% of 217790 |
 | American Truck Simulator | $9.11 | $19.99 | 54% | 97% of 197876 |
 | Stellaris | $17.18 | $49.99 | 66% | 86% of 196674 |
