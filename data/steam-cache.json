@@ -175,6 +175,14 @@
    "total": 4978,
    "reviewsAt": "2026-10-19"
   },
+  "6060": {
+   "name": "STAR WARS™ Battlefront II (Classic, 2005)",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6060/header.jpg?t=1707697325",
+   "at": "2026-10-23"
+  },
   "6300": {
    "name": "Dreamfall: The Longest Journey",
    "type": "game",
@@ -355,6 +363,14 @@
    "pos": 19907,
    "total": 21767,
    "reviewsAt": "2026-10-16"
+  },
+  "12150": {
+   "name": "Max Payne 2: The Fall of Max Payne",
+   "type": "game",
+   "age": 17,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/header.jpg?t=1709651720",
+   "at": "2026-10-23"
   },
   "12540": {
    "name": "Mahjongg Investigations: Under Suspicion",
@@ -1039,6 +1055,14 @@
    "total": 399,
    "reviewsAt": "2026-10-16"
   },
+  "46840": {
+   "name": "Ironclads: Chincha Islands War 1866",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/46840/header.jpg?t=1759952313",
+   "at": "2026-10-23"
+  },
   "47790": {
    "name": "Medal of Honor™",
    "type": "game",
@@ -1096,6 +1120,16 @@
    "pos": 237,
    "total": 252,
    "reviewsAt": "2026-10-19"
+  },
+  "50130": {
+   "name": "Mafia II (Classic)",
+   "type": "game",
+   "age": 18,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50130/header.jpg?t=1746717708",
+   "at": "2026-10-23"
   },
   "55000": {
    "name": "Flotilla",
@@ -1437,6 +1471,14 @@
    "pos": 52,
    "total": 156,
    "reviewsAt": "2026-10-20"
+  },
+  "108710": {
+   "name": "Alan Wake",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108710/9c1728f937c2a7e632b447b02e442f6a5d88515c/header.jpg?t=1769717716",
+   "at": "2026-10-23"
   },
   "108800": {
    "name": "Crysis 2 - Maximum Edition",
@@ -2011,6 +2053,14 @@
    "pos": 366832,
    "total": 470916,
    "reviewsAt": "2026-10-12"
+  },
+  "221260": {
+   "name": "Little Inferno",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/header.jpg?t=1668741117",
+   "at": "2026-10-23"
   },
   "222480": {
    "name": "Resident Evil Revelations",
@@ -2623,6 +2673,14 @@
    "total": 12202,
    "reviewsAt": "2026-10-13"
   },
+  "239250": {
+   "name": "Castlevania: Lords of Shadow 2",
+   "type": "game",
+   "age": 17,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239250/header.jpg?t=1737506536",
+   "at": "2026-10-23"
+  },
   "240760": {
    "name": "Wasteland 2: Director's Cut",
    "type": "game",
@@ -2644,6 +2702,17 @@
    "pos": 1206,
    "total": 1318,
    "reviewsAt": "2026-10-20"
+  },
+  "242860": {
+   "name": "Verdun",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242860/9525bbcc30aa9d4238755496b55c2c7956b854cf/header.jpg?t=1790860260",
+   "at": "2026-10-23"
   },
   "242880": {
    "name": "Sir, You Are Being Hunted",
@@ -3762,6 +3831,25 @@
    "total": 618,
    "reviewsAt": "2026-10-16"
   },
+  "274170": {
+   "name": "Hotline Miami 2: Wrong Number",
+   "type": "game",
+   "age": 17,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/header.jpg?t=1782406411",
+   "at": "2026-10-23"
+  },
+  "274190": {
+   "name": "Broforce",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg?t=1764247760",
+   "at": "2026-10-23"
+  },
   "274230": {
    "name": "RONIN",
    "type": "game",
@@ -4039,6 +4127,14 @@
    "pos": 1923,
    "total": 1999,
    "reviewsAt": "2026-10-21"
+  },
+  "285900": {
+   "name": "Gang Beasts",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg?t=1780410654",
+   "at": "2026-10-23"
   },
   "285920": {
    "name": "TerraTech",
@@ -4693,6 +4789,14 @@
    "total": 784,
    "reviewsAt": "2026-10-21"
   },
+  "306760": {
+   "name": "Obduction",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306760/header.jpg?t=1787614935",
+   "at": "2026-10-23"
+  },
   "307110": {
    "name": "We Need To Go Deeper",
    "type": "game",
@@ -4881,6 +4985,14 @@
    "pos": 15580,
    "total": 18362,
    "reviewsAt": "2026-10-14"
+  },
+  "311690": {
+   "name": "Enter the Gungeon",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/471d245bd8a37011c16852694342e5ad2d8a4667/header.jpg?t=1779733990",
+   "at": "2026-10-23"
   },
   "312360": {
    "name": "To End All Wars",
@@ -5429,6 +5541,14 @@
    "total": 646,
    "reviewsAt": "2026-10-17"
   },
+  "327740": {
+   "name": "TRON 2.0",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327740/header.jpg?t=1741820401",
+   "at": "2026-10-23"
+  },
   "327860": {
    "name": "Salt",
    "type": "game",
@@ -5799,6 +5919,14 @@
    "total": 97,
    "reviewsAt": "2026-10-13"
   },
+  "338800": {
+   "name": "Seven Kingdoms 2 HD",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/338800/header.jpg?t=1683130376",
+   "at": "2026-10-23"
+  },
   "339090": {
    "name": "Pig Eat Ball",
    "type": "game",
@@ -5839,6 +5967,17 @@
    "pos": 25,
    "total": 29,
    "reviewsAt": "2026-10-19"
+  },
+  "339830": {
+   "name": "The Church in the Darkness ™",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339830/header.jpg?t=1757570848",
+   "at": "2026-10-23"
   },
   "340170": {
    "name": "FINAL FANTASY TYPE-0™ HD",
@@ -6033,6 +6172,14 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346940/header.jpg?t=1709815037",
    "at": "2026-10-20"
+  },
+  "347400": {
+   "name": "001 Game Creator: 2026 Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/header.jpg?t=1787603881",
+   "at": "2026-10-23"
   },
   "347940": {
    "name": "Forsaken Isle",
@@ -6365,6 +6512,14 @@
    "total": 4518,
    "reviewsAt": "2026-10-20"
   },
+  "359320": {
+   "name": "Elite Dangerous",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg?t=1759842966",
+   "at": "2026-10-23"
+  },
   "359390": {
    "name": "Amnesia™: Memories",
    "type": "game",
@@ -6377,6 +6532,14 @@
    "pos": 4273,
    "total": 4608,
    "reviewsAt": "2026-10-19"
+  },
+  "359510": {
+   "name": "Tangle Tower",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359510/header.jpg?t=1771579217",
+   "at": "2026-10-23"
   },
   "359870": {
    "name": "FINAL FANTASY X/X-2 HD Remaster",
@@ -6624,6 +6787,14 @@
    "pos": 148,
    "total": 177,
    "reviewsAt": "2026-10-20"
+  },
+  "365360": {
+   "name": "Battle Brothers",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/c6ad528c1ec98716cccc6b251d570bd1c0f2d283/header.jpg?t=1792743708",
+   "at": "2026-10-23"
   },
   "365680": {
    "name": "BRAWL",
@@ -8307,6 +8478,14 @@
    "total": 59868,
    "reviewsAt": "2026-10-16"
   },
+  "428510": {
+   "name": "Solitaire Christmas. Match 2 Cards",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428510/header.jpg?t=1687235516",
+   "at": "2026-10-23"
+  },
   "428590": {
    "name": "Unearthing Colossal",
    "type": "game",
@@ -8417,6 +8596,14 @@
    "total": 42,
    "reviewsAt": "2026-10-13"
   },
+  "432980": {
+   "name": "INVERSUS Deluxe",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432980/header.jpg?t=1753774015",
+   "at": "2026-10-23"
+  },
   "433280": {
    "name": "Warlords Battlecry III",
    "type": "game",
@@ -8501,6 +8688,14 @@
    "pos": 45,
    "total": 63,
    "reviewsAt": "2026-10-13"
+  },
+  "437340": {
+   "name": "Toys of War",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437340/header.jpg?t=1572314299",
+   "at": "2026-10-23"
   },
   "437440": {
    "name": "Lord of Rigel",
@@ -8684,6 +8879,14 @@
    "pos": 432,
    "total": 538,
    "reviewsAt": "2026-10-19"
+  },
+  "445000": {
+   "name": "Nova Nukers!",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445000/header.jpg?t=1728902426",
+   "at": "2026-10-23"
   },
   "445220": {
    "name": "Avorion",
@@ -9515,6 +9718,14 @@
    "total": 40,
    "reviewsAt": "2026-10-17"
   },
+  "485510": {
+   "name": "Nioh: Complete Edition",
+   "type": "game",
+   "age": 17,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485510/header.jpg?t=1775540073",
+   "at": "2026-10-23"
+  },
   "485980": {
    "name": "Syrian Warfare",
    "type": "game",
@@ -10175,6 +10386,14 @@
    "total": 50,
    "reviewsAt": "2026-10-14"
   },
+  "517710": {
+   "name": "Redout: Enhanced Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/517710/header.jpg?t=1730303625",
+   "at": "2026-10-23"
+  },
   "518280": {
    "name": "Dead End Junction",
    "type": "game",
@@ -10547,6 +10766,14 @@
    "pos": 1098,
    "total": 1741,
    "reviewsAt": "2026-10-13"
+  },
+  "538030": {
+   "name": "Xenonauts 2",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/9ec440c60b93b812590dedd2c2b69112b9f1526c/header.jpg?t=1792743372",
+   "at": "2026-10-23"
   },
   "538060": {
    "name": "Doodle God: 8-bit Mania - Collector's Item",
@@ -11097,6 +11324,14 @@
    "pos": 27255,
    "total": 28548,
    "reviewsAt": "2026-10-13"
+  },
+  "557600": {
+   "name": "Gorogoa",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/header.jpg?t=1729099787",
+   "at": "2026-10-23"
   },
   "558260": {
    "name": "Gravel",
@@ -12447,6 +12682,17 @@
    "total": 412,
    "reviewsAt": "2026-10-12"
   },
+  "611500": {
+   "name": "Quake Champions",
+   "type": "game",
+   "age": 17,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/header.jpg?t=1790187617",
+   "at": "2026-10-23"
+  },
   "611620": {
    "name": "TheNightfall",
    "type": "game",
@@ -12645,6 +12891,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621020/header.jpg?t=1728468674",
    "at": "2026-10-13"
+  },
+  "621060": {
+   "name": "PC Building Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/header.jpg?t=1653555111",
+   "at": "2026-10-23"
   },
   "621220": {
    "name": "Nantucket",
@@ -13083,6 +13337,14 @@
    "pos": 110,
    "total": 150,
    "reviewsAt": "2026-10-20"
+  },
+  "641990": {
+   "name": "The Escapists 2",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg?t=1791478007",
+   "at": "2026-10-23"
   },
   "642170": {
    "name": "Legendary Hunter VR",
@@ -13695,6 +13957,22 @@
    "total": 15,
    "reviewsAt": "2026-10-13"
   },
+  "678890": {
+   "name": "Airport Simulator 2019",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678890/header.jpg?t=1728936999",
+   "at": "2026-10-23"
+  },
+  "678900": {
+   "name": "Farmer's Dynasty - Final Harvest Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678900/bf37ce14ffe4383a5a884a1a3c976f20db23d2c6/header.jpg?t=1776247402",
+   "at": "2026-10-23"
+  },
   "679750": {
    "name": "Catch & Release",
    "type": "game",
@@ -14206,6 +14484,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701460/header.jpg?t=1776803119",
    "at": "2026-10-12"
+  },
+  "702670": {
+   "name": "Donut County",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/header.jpg?t=1729099497",
+   "at": "2026-10-23"
   },
   "702700": {
    "name": "Super Bomberman R",
@@ -15112,6 +15398,14 @@
    "total": 73391,
    "reviewsAt": "2026-10-15"
   },
+  "753640": {
+   "name": "Outer Wilds",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341",
+   "at": "2026-10-23"
+  },
   "754890": {
    "name": "Firmament",
    "type": "game",
@@ -15260,6 +15554,14 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762220/header.jpg?t=1726593200",
    "at": "2026-10-13"
+  },
+  "762840": {
+   "name": "Maquette",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762840/header.jpg?t=1729099556",
+   "at": "2026-10-23"
   },
   "762930": {
    "name": "Supipara - Chapter 2 Spring Has Come!",
@@ -15634,6 +15936,14 @@
    "total": 33,
    "reviewsAt": "2026-10-14"
   },
+  "784150": {
+   "name": "Workers & Resources: Soviet Republic",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg?t=1792743078",
+   "at": "2026-10-23"
+  },
   "785260": {
    "name": "Team Sonic Racing™",
    "type": "game",
@@ -15710,6 +16020,17 @@
    "pos": 1262,
    "total": 1437,
    "reviewsAt": "2026-10-19"
+  },
+  "789760": {
+   "name": "DEAD OR SCHOOL",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/789760/header.jpg?t=1601950406",
+   "at": "2026-10-23"
   },
   "790540": {
    "name": "THE QUIET MAN™",
@@ -16366,6 +16687,14 @@
    "total": 432,
    "reviewsAt": "2026-10-13"
   },
+  "824550": {
+   "name": "SD GUNDAM BATTLE ALLIANCE",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/824550/header.jpg?t=1706555546",
+   "at": "2026-10-23"
+  },
   "824850": {
    "name": "Some Distant Memory",
    "type": "game",
@@ -16431,6 +16760,14 @@
    "pos": 287,
    "total": 491,
    "reviewsAt": "2026-10-15"
+  },
+  "832770": {
+   "name": "Age of Fear: The Undead King GOLD",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/832770/header.jpg?t=1730542425",
+   "at": "2026-10-23"
   },
   "833300": {
    "name": "Fantasyland",
@@ -17139,6 +17476,14 @@
    "total": 468,
    "reviewsAt": "2026-10-16"
   },
+  "874390": {
+   "name": "The Battle of Polytopia",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874390/header.jpg?t=1787933144",
+   "at": "2026-10-23"
+  },
   "874450": {
    "name": "Lunacy: Saint Rhodes",
    "type": "game",
@@ -17241,6 +17586,26 @@
    "total": 306,
    "reviewsAt": "2026-10-18"
   },
+  "881100": {
+   "name": "Noita",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg?t=1675987871",
+   "at": "2026-10-23"
+  },
+  "881690": {
+   "name": "The Slater",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881690/header.jpg?t=1667027397",
+   "at": "2026-10-23"
+  },
   "881750": {
    "name": "Furwind",
    "type": "game",
@@ -17320,6 +17685,14 @@
    "pos": 1308,
    "total": 1483,
    "reviewsAt": "2026-10-22"
+  },
+  "886070": {
+   "name": "Jewel Match Solitaire",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886070/header.jpg?t=1726776056",
+   "at": "2026-10-23"
   },
   "886820": {
    "name": "Nelke & the Legendary Alchemists ~Ateliers of the New World~",
@@ -17479,6 +17852,14 @@
    "pos": 255,
    "total": 288,
    "reviewsAt": "2026-10-15"
+  },
+  "895480": {
+   "name": "Fates of Ort",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895480/header.jpg?t=1728571750",
+   "at": "2026-10-23"
   },
   "895870": {
    "name": "Project Wingman",
@@ -18211,6 +18592,14 @@
    "total": 16,
    "reviewsAt": "2026-10-17"
   },
+  "948880": {
+   "name": "Arena Renovation",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948880/header.jpg?t=1791553884",
+   "at": "2026-10-23"
+  },
   "949230": {
    "name": "Cities: Skylines II",
    "type": "game",
@@ -18254,6 +18643,14 @@
    "pos": 70,
    "total": 90,
    "reviewsAt": "2026-10-14"
+  },
+  "951750": {
+   "name": "I Am Dead",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951750/header.jpg?t=1778680000",
+   "at": "2026-10-23"
   },
   "952240": {
    "name": "Dieselpunk Wars",
@@ -18599,6 +18996,14 @@
    "total": 18269,
    "reviewsAt": "2026-10-11"
   },
+  "970940": {
+   "name": "The Unicorn Princess",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/970940/header.jpg?t=1728937046",
+   "at": "2026-10-23"
+  },
   "971030": {
    "name": "SkateBIRD",
    "type": "game",
@@ -18734,6 +19139,14 @@
    "pos": 5412,
    "total": 5796,
    "reviewsAt": "2026-10-11"
+  },
+  "979110": {
+   "name": "Space Haven",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1779957549",
+   "at": "2026-10-23"
   },
   "979690": {
    "name": "The Ascent",
@@ -19779,6 +20192,14 @@
    "total": 842,
    "reviewsAt": "2026-10-12"
   },
+  "1033930": {
+   "name": "Animal Doctor",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1033930/header.jpg?t=1642666774",
+   "at": "2026-10-23"
+  },
   "1033950": {
    "name": "Lamentum",
    "type": "game",
@@ -19827,6 +20248,14 @@
    "pos": 8,
    "total": 28,
    "reviewsAt": "2026-10-13"
+  },
+  "1035770": {
+   "name": "Jewel Match Solitaire 2 Collector's Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035770/header.jpg?t=1726773981",
+   "at": "2026-10-23"
   },
   "1035780": {
    "name": "Pecker",
@@ -20571,6 +21000,18 @@
    "total": 16204,
    "reviewsAt": "2026-10-11"
   },
+  "1069160": {
+   "name": "SKALD: Against the Black Priory",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069160/header.jpg?t=1777291893",
+   "at": "2026-10-23"
+  },
   "1070220": {
    "name": "Detective Kobayashi - A Visual Novel",
    "type": "game",
@@ -20782,6 +21223,18 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082680/header.jpg?t=1729182817",
    "at": "2026-10-11"
   },
+  "1082930": {
+   "name": "The Signifier Director's Cut",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082930/header.jpg?t=1766090793",
+   "at": "2026-10-23"
+  },
   "1084120": {
    "name": "Hindsight 20/20 - Wrath of the Raakshasa",
    "type": "game",
@@ -20956,6 +21409,14 @@
    "pos": 324,
    "total": 364,
    "reviewsAt": "2026-10-10"
+  },
+  "1089980": {
+   "name": "The Henry Stickmin Collection",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/header.jpg?t=1781289354",
+   "at": "2026-10-23"
   },
   "1092790": {
    "name": "Inscryption",
@@ -21635,6 +22096,22 @@
    "total": 1096,
    "reviewsAt": "2026-10-14"
   },
+  "1122690": {
+   "name": "Last Stop",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122690/header.jpg?t=1733585594",
+   "at": "2026-10-23"
+  },
+  "1122700": {
+   "name": "Hindsight",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/header.jpg?t=1729099970",
+   "at": "2026-10-23"
+  },
   "1123450": {
    "name": "Chicory: A Colorful Tale",
    "type": "game",
@@ -21777,6 +22254,14 @@
    "total": 96,
    "reviewsAt": "2026-10-12"
   },
+  "1126470": {
+   "name": "Jewel Match Atlantis Solitaire - Collector's Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126470/header.jpg?t=1726143404",
+   "at": "2026-10-23"
+  },
   "1127500": {
    "name": "Mini Motorways",
    "type": "game",
@@ -21845,6 +22330,24 @@
    "pos": 40,
    "total": 41,
    "reviewsAt": "2026-10-17"
+  },
+  "1129570": {
+   "name": "Industry Giant 4.0",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129570/b006727c4bb7e2a1a43f64953a90a0c4fcc177f8/header.jpg?t=1788251865",
+   "at": "2026-10-23"
+  },
+  "1129580": {
+   "name": "Medieval Dynasty",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1792138818",
+   "at": "2026-10-23"
   },
   "1129760": {
    "name": "String Theory",
@@ -21954,6 +22457,14 @@
    "pos": 2205,
    "total": 4234,
    "reviewsAt": "2026-10-12"
+  },
+  "1135230": {
+   "name": "Ember Knights",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135230/header.jpg?t=1791554801",
+   "at": "2026-10-23"
   },
   "1135300": {
    "name": "King's Bounty II",
@@ -22079,6 +22590,14 @@
    "pos": 121,
    "total": 167,
    "reviewsAt": "2026-10-20"
+  },
+  "1138850": {
+   "name": "Heavenly Bodies",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138850/header.jpg?t=1780480028",
+   "at": "2026-10-23"
   },
   "1140100": {
    "name": "The Persistence",
@@ -22321,6 +22840,14 @@
    "total": 8495,
    "reviewsAt": "2026-10-14"
   },
+  "1150990": {
+   "name": "Cemetery Warrior 4",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150990/header.jpg?t=1732256552",
+   "at": "2026-10-23"
+  },
   "1151250": {
    "name": "Horror Story: Hallowseed",
    "type": "game",
@@ -22356,6 +22883,17 @@
    "pos": 58,
    "total": 69,
    "reviewsAt": "2026-10-19"
+  },
+  "1151680": {
+   "name": "Galactic Rangers VR",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151680/header.jpg?t=1644579864",
+   "at": "2026-10-23"
   },
   "1153410": {
    "name": "JDM: Japanese Drift Master",
@@ -22721,6 +23259,14 @@
    "total": 6881,
    "reviewsAt": "2026-10-11"
   },
+  "1170060": {
+   "name": "Boomerang X",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170060/header.jpg?t=1771215986",
+   "at": "2026-10-23"
+  },
   "1171690": {
    "name": "Wayfinder",
    "type": "game",
@@ -23005,6 +23551,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184500/abe029341067fc6aebf0c6bf5784ff7b3771c6b7/header.jpg?t=1748449113",
    "at": "2026-10-19"
+  },
+  "1184790": {
+   "name": "SCP: Fragmented Minds",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184790/05e8c7a71405732cf1e40a504e871f7c11e847e0/header.jpg?t=1775237879",
+   "at": "2026-10-23"
   },
   "1185740": {
    "name": "Mira",
@@ -23633,6 +24187,14 @@
    "total": 460,
    "reviewsAt": "2026-10-13"
   },
+  "1215940": {
+   "name": "Forever Ago",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/463f75c014bc0ee1c6daf2ccda036edb28a0bb36/header.jpg?t=1791579249",
+   "at": "2026-10-23"
+  },
   "1216710": {
    "name": "Cyber Manhunt",
    "type": "game",
@@ -23892,6 +24454,14 @@
    "total": 1164,
    "reviewsAt": "2026-10-15"
   },
+  "1230140": {
+   "name": "ATRI -My Dear Moments-",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1230140/header.jpg?t=1761759369",
+   "at": "2026-10-23"
+  },
   "1230530": {
    "name": "Atlas Fallen: Reign Of Sand",
    "type": "game",
@@ -23994,6 +24564,18 @@
    "pos": 1,
    "total": 4,
    "reviewsAt": "2026-10-16"
+  },
+  "1238990": {
+   "name": "Fractured Core",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238990/604bc9b7670e9f3dff3ca2407bf02589da4f5861/header.jpg?t=1779313950",
+   "at": "2026-10-23"
   },
   "1239080": {
    "name": "Door Kickers 2: Task Force North",
@@ -24138,6 +24720,14 @@
    "total": 334,
    "reviewsAt": "2026-10-18"
   },
+  "1249040": {
+   "name": "American Arcadia",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249040/header.jpg?t=1792068021",
+   "at": "2026-10-23"
+  },
   "1249970": {
    "name": "Test Drive Unlimited Solar Crown",
    "type": "game",
@@ -24170,6 +24760,14 @@
    "pos": 518,
    "total": 561,
    "reviewsAt": "2026-10-16"
+  },
+  "1252000": {
+   "name": "GOAL! The Club Manager",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252000/header.jpg?t=1742392676",
+   "at": "2026-10-23"
   },
   "1252330": {
    "name": "DEATHLOOP",
@@ -24230,6 +24828,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255260/header.jpg?t=1732875376",
    "at": "2026-10-15"
+  },
+  "1255560": {
+   "name": "Myst",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/header.jpg?t=1784069699",
+   "at": "2026-10-23"
   },
   "1256060": {
    "name": "Cosmodread",
@@ -24738,6 +25344,17 @@
    "pos": 10921,
    "total": 12763,
    "reviewsAt": "2026-10-12"
+  },
+  "1273560": {
+   "name": "DeathSprint 66",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273560/header.jpg?t=1782410321",
+   "at": "2026-10-23"
   },
   "1274570": {
    "name": "DEVOUR",
@@ -25367,6 +25984,14 @@
    "total": 3927,
    "reviewsAt": "2026-10-20"
   },
+  "1308760": {
+   "name": "Mesmer",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308760/header.jpg?t=1703851535",
+   "at": "2026-10-23"
+  },
   "1309510": {
    "name": "Glaze Cup: Journey to the West",
    "type": "game",
@@ -25704,6 +26329,14 @@
    "total": 869,
    "reviewsAt": "2026-10-12"
   },
+  "1329880": {
+   "name": "Wild West Legacy",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/2619bc7f3907d36001177eca428670ab3508f93b/header.jpg?t=1774006419",
+   "at": "2026-10-23"
+  },
   "1330470": {
    "name": "F.I.S.T.: Forged In Shadow Torch",
    "type": "game",
@@ -25711,6 +26344,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330470/header.jpg?t=1750952195",
    "at": "2026-10-15"
+  },
+  "1330660": {
+   "name": "Train Life: A Railway Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330660/header.jpg?t=1764149287",
+   "at": "2026-10-23"
   },
   "1331340": {
    "name": "Break the Loop",
@@ -25734,6 +26375,14 @@
    "total": 145,
    "reviewsAt": "2026-10-12"
   },
+  "1334000": {
+   "name": "Wordle",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334000/1b66be3c4ec4fda1fe6660dffd92d422f74b9415/header.jpg?t=1791029968",
+   "at": "2026-10-23"
+  },
   "1335560": {
    "name": "UNREAL LIFE",
    "type": "game",
@@ -25744,6 +26393,14 @@
    "pos": 1910,
    "total": 2001,
    "reviewsAt": "2026-10-14"
+  },
+  "1335790": {
+   "name": "Operation: Tango",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/header.jpg?t=1762781027",
+   "at": "2026-10-23"
   },
   "1335830": {
    "name": "Len's Island",
@@ -26112,6 +26769,14 @@
    "total": 32,
    "reviewsAt": "2026-10-15"
   },
+  "1354260": {
+   "name": "Brave Escape",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1354260/430ef4770c894451526cecfaa12c884a57beab2f/header.jpg?t=1784569456",
+   "at": "2026-10-23"
+  },
   "1356240": {
    "name": "Who Wants To Be A Millionaire",
    "type": "game",
@@ -26259,6 +26924,17 @@
    "pos": 1899,
    "total": 2142,
    "reviewsAt": "2026-10-20"
+  },
+  "1361210": {
+   "name": "Warhammer 40,000: Darktide",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/6f8919b0183f24d271650c6dca958fb91edd5849/header_alt_assets_20.jpg?t=1790691939",
+   "at": "2026-10-23"
   },
   "1361510": {
    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
@@ -26445,6 +27121,14 @@
    "pos": 52,
    "total": 89,
    "reviewsAt": "2026-10-15"
+  },
+  "1371580": {
+   "name": "Myth of Empires",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371580/header.jpg?t=1783469343",
+   "at": "2026-10-23"
   },
   "1371720": {
    "name": "Card Shark",
@@ -27046,6 +27730,18 @@
    "total": 42,
    "reviewsAt": "2026-10-13"
   },
+  "1402110": {
+   "name": "Eternights",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402110/header.jpg?t=1759232313",
+   "at": "2026-10-23"
+  },
   "1406780": {
    "name": "Viscerafest",
    "type": "game",
@@ -27141,6 +27837,16 @@
    "pos": 83,
    "total": 97,
    "reviewsAt": "2026-10-17"
+  },
+  "1409840": {
+   "name": "Aztecs: The Last Sun",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409840/141fa79e2a075592d7d0b2b23329f38dec97d846/header.jpg?t=1789975613",
+   "at": "2026-10-23"
   },
   "1410400": {
    "name": "Kejora",
@@ -27394,6 +28100,14 @@
    "pos": 79,
    "total": 86,
    "reviewsAt": "2026-10-13"
+  },
+  "1429500": {
+   "name": "Frontier Hunter: Erza’s Wheel of Fortune",
+   "type": "game",
+   "age": 17,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429500/header.jpg?t=1771837546",
+   "at": "2026-10-23"
   },
   "1429850": {
    "name": "Sumerian Six",
@@ -28216,6 +28930,14 @@
    "total": 4123,
    "reviewsAt": "2026-10-13"
   },
+  "1472930": {
+   "name": "Flock",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472930/header.jpg?t=1778679592",
+   "at": "2026-10-23"
+  },
   "1473060": {
    "name": "Reality Break",
    "type": "game",
@@ -28602,6 +29324,14 @@
    "total": 6,
    "reviewsAt": "2026-10-14"
   },
+  "1492090": {
+   "name": "Forgotten Fragments",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492090/header.jpg?t=1790351239",
+   "at": "2026-10-23"
+  },
   "1492100": {
    "name": "Fantasy Network",
    "type": "game",
@@ -28762,6 +29492,22 @@
    "total": 25348,
    "reviewsAt": "2026-10-10"
   },
+  "1497360": {
+   "name": "Open Roads",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1497360/header.jpg?t=1729100173",
+   "at": "2026-10-23"
+  },
+  "1497440": {
+   "name": "COCOON",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1497440/header.jpg?t=1763721043",
+   "at": "2026-10-23"
+  },
   "1497950": {
    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS",
    "type": "game",
@@ -28905,6 +29651,14 @@
    "total": 16,
    "reviewsAt": "2026-10-20"
   },
+  "1504500": {
+   "name": "OPUS: Echo of Starsong - Full Bloom Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/header.jpg?t=1791960440",
+   "at": "2026-10-23"
+  },
   "1505460": {
    "name": "Neon",
    "type": "game",
@@ -29016,6 +29770,14 @@
    "pos": 22,
    "total": 49,
    "reviewsAt": "2026-10-15"
+  },
+  "1515320": {
+   "name": "Harvest Days: My Dream Farm",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515320/header.jpg?t=1754594851",
+   "at": "2026-10-23"
   },
   "1515900": {
    "name": "Heaven Dust 2",
@@ -29132,6 +29894,17 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521770/header.jpg?t=1709419556",
    "at": "2026-10-10"
   },
+  "1522140": {
+   "name": "Demon Skin",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522140/header.jpg?t=1761209746",
+   "at": "2026-10-23"
+  },
   "1522280": {
    "name": "Grim Realms",
    "type": "game",
@@ -29213,6 +29986,14 @@
    "pos": 240,
    "total": 286,
    "reviewsAt": "2026-10-13"
+  },
+  "1525190": {
+   "name": "Monster Outbreak",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525190/header.jpg?t=1774489048",
+   "at": "2026-10-23"
   },
   "1525580": {
    "name": "Kabaret",
@@ -29475,6 +30256,14 @@
    "total": 381,
    "reviewsAt": "2026-10-20"
   },
+  "1543750": {
+   "name": "Jewel Match Atlantis Solitaire 2 - Collector's Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543750/header.jpg?t=1726774064",
+   "at": "2026-10-23"
+  },
   "1544240": {
    "name": "VR Pianist",
    "type": "game",
@@ -29534,6 +30323,17 @@
    "pos": 3680,
    "total": 4126,
    "reviewsAt": "2026-10-13"
+  },
+  "1548850": {
+   "name": "Six Days in Fallujah",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/6fda8341b3559754cf71ca839e69460c3e54479e/header.jpg?t=1775125249",
+   "at": "2026-10-23"
   },
   "1549850": {
    "name": "Virtual Hunter",
@@ -30102,6 +30902,16 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/header.jpg?t=1730303267",
    "at": "2026-10-10"
   },
+  "1579340": {
+   "name": "Survive the Fall",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1579340/header.jpg?t=1769761311",
+   "at": "2026-10-23"
+  },
   "1580150": {
    "name": "Between Time: Escape Room",
    "type": "game",
@@ -30112,6 +30922,16 @@
    "pos": 289,
    "total": 364,
    "reviewsAt": "2026-10-20"
+  },
+  "1580180": {
+   "name": "Gunbrella",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580180/header.jpg?t=1773148300",
+   "at": "2026-10-23"
   },
   "1580240": {
    "name": "Rune Factory 4 Special",
@@ -30145,6 +30965,14 @@
    "pos": 438,
    "total": 580,
    "reviewsAt": "2026-10-14"
+  },
+  "1584680": {
+   "name": "Medieval Machines Builder",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584680/6e0ca031e2e26fdbe8262eaaaf0cc5fa94938424/header.jpg?t=1792613752",
+   "at": "2026-10-23"
   },
   "1585310": {
    "name": "Restart Zero",
@@ -30544,6 +31372,17 @@
    "total": 173,
    "reviewsAt": "2026-10-13"
   },
+  "1604630": {
+   "name": "Kriophobia",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604630/44a563a6fc14dd75ddbaf694610a6d3d7048d593/header.jpg?t=1790296484",
+   "at": "2026-10-23"
+  },
   "1605220": {
    "name": "Dune: Spice Wars",
    "type": "game",
@@ -30592,6 +31431,14 @@
    "pos": 59,
    "total": 76,
    "reviewsAt": "2026-10-14"
+  },
+  "1607240": {
+   "name": "Mail Time",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607240/header.jpg?t=1791996080",
+   "at": "2026-10-23"
   },
   "1607530": {
    "name": "Treasures of the Aegean",
@@ -30655,6 +31502,14 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610520/018fa82e1ff6a166331864b4bae3a260829dd9d2/header.jpg?t=1746119588",
    "at": "2026-10-12"
+  },
+  "1611060": {
+   "name": "LA FORET DE PAGO 2 : SOUVENIR DE GLACE",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1611060/header.jpg?t=1783027394",
+   "at": "2026-10-23"
   },
   "1611430": {
    "name": "The Bridge Curse Road to Salvation",
@@ -30956,6 +31811,17 @@
    "pos": 5,
    "total": 7,
    "reviewsAt": "2026-10-17"
+  },
+  "1631230": {
+   "name": "Grimstar: Crystals are the New Oil!",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631230/b386f0fab71c44dc19d798bc6a7ac04feab99939/header.jpg?t=1779383336",
+   "at": "2026-10-23"
   },
   "1631330": {
    "name": "Equestrian Training ",
@@ -31355,6 +32221,14 @@
    "total": 5762,
    "reviewsAt": "2026-10-20"
   },
+  "1658150": {
+   "name": "Moonstone Island",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658150/36266fbf5c1a8e6a3f0071c10252dcc76ddd7276/header.jpg?t=1783321708",
+   "at": "2026-10-23"
+  },
   "1658920": {
    "name": "Crown Wars: The Black Prince",
    "type": "game",
@@ -31526,6 +32400,16 @@
    "total": 13,
    "reviewsAt": "2026-10-22"
   },
+  "1667750": {
+   "name": "Frigato: Shadows of the Caribbean",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667750/header.jpg?t=1791743614",
+   "at": "2026-10-23"
+  },
   "1668930": {
    "name": "African Safari",
    "type": "game",
@@ -31637,6 +32521,14 @@
    "pos": 6,
    "total": 9,
    "reviewsAt": "2026-10-18"
+  },
+  "1672500": {
+   "name": "GUNDAM BREAKER 4",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672500/header.jpg?t=1788195356",
+   "at": "2026-10-23"
   },
   "1672810": {
    "name": "MIO: Memories in Orbit",
@@ -31961,6 +32853,22 @@
    "total": 734,
    "reviewsAt": "2026-10-20"
   },
+  "1687590": {
+   "name": "Mars Base",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687590/header.jpg?t=1774488720",
+   "at": "2026-10-23"
+  },
+  "1687700": {
+   "name": "Crash Time - Undercover",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687700/header.jpg?t=1728077109",
+   "at": "2026-10-23"
+  },
   "1687950": {
    "name": "Persona 5 Royal",
    "type": "game",
@@ -32102,6 +33010,14 @@
    "pos": 396,
    "total": 688,
    "reviewsAt": "2026-10-12"
+  },
+  "1700870": {
+   "name": "Clanfolk",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700870/header.jpg?t=1792743532",
+   "at": "2026-10-23"
   },
   "1701560": {
    "name": "RUINSMAGUS",
@@ -32311,6 +33227,14 @@
    "total": 111,
    "reviewsAt": "2026-10-20"
   },
+  "1709900": {
+   "name": "Tower Tactics: Liberation",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1709900/header.jpg?t=1762941429",
+   "at": "2026-10-23"
+  },
   "1710580": {
    "name": "MotoGP™22",
    "type": "game",
@@ -32318,6 +33242,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710580/header.jpg?t=1728470115",
    "at": "2026-10-11"
+  },
+  "1712350": {
+   "name": "Riven",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/9ead2cf7de352df93cea7462e17ec0141bac1fca/header.jpg?t=1784241079",
+   "at": "2026-10-23"
   },
   "1712750": {
    "name": "PIXELS: Digital Creatures",
@@ -32483,6 +33415,14 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1786648030",
    "at": "2026-10-11"
   },
+  "1717120": {
+   "name": "Endless mahjong",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1717120/header.jpg?t=1762254896",
+   "at": "2026-10-23"
+  },
   "1717190": {
    "name": "Fallen City Brawl",
    "type": "game",
@@ -32507,6 +33447,14 @@
    "pos": 279,
    "total": 719,
    "reviewsAt": "2026-10-13"
+  },
+  "1719040": {
+   "name": "Morsels",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1719040/header.jpg?t=1769538257",
+   "at": "2026-10-23"
   },
   "1719690": {
    "name": "MerFight",
@@ -32895,6 +33843,14 @@
    "total": 209,
    "reviewsAt": "2026-10-10"
   },
+  "1740720": {
+   "name": "Have a Nice Death",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740720/header.jpg?t=1717104630",
+   "at": "2026-10-23"
+  },
   "1741640": {
    "name": "Shadows of Forbidden Gods",
    "type": "game",
@@ -32986,6 +33942,17 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749980/header.jpg?t=1663036778",
    "at": "2026-10-16"
+  },
+  "1750030": {
+   "name": "Post Trauma",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750030/header.jpg?t=1776068790",
+   "at": "2026-10-23"
   },
   "1751730": {
    "name": "FIRE AND ASHES",
@@ -33478,6 +34445,14 @@
    "pos": 278,
    "total": 289,
    "reviewsAt": "2026-10-20"
+  },
+  "1780070": {
+   "name": "Seeds of Calamity",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780070/header.jpg?t=1790073725",
+   "at": "2026-10-23"
   },
   "1781110": {
    "name": "BlockStar VR",
@@ -34240,6 +35215,14 @@
    "total": 4552,
    "reviewsAt": "2026-10-11"
   },
+  "1840080": {
+   "name": "Homeworld 3",
+   "type": "game",
+   "age": 10,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840080/header.jpg?t=1781819110",
+   "at": "2026-10-23"
+  },
   "1840800": {
    "name": "Headquarters: World War II",
    "type": "game",
@@ -34446,6 +35429,22 @@
    "pos": 2,
    "total": 5,
    "reviewsAt": "2026-10-17"
+  },
+  "1857070": {
+   "name": "Golden Mine Pickaxe",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857070/header.jpg?t=1642351396",
+   "at": "2026-10-23"
+  },
+  "1857090": {
+   "name": "Norland",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857090/header.jpg?t=1792743530",
+   "at": "2026-10-23"
   },
   "1857340": {
    "name": "Spy Network",
@@ -35135,6 +36134,14 @@
    "pos": 20,
    "total": 46,
    "reviewsAt": "2026-10-11"
+  },
+  "1895460": {
+   "name": "D-topia",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895460/c007e8aca1b123534981f690f3ea36e0afba77ba/header.jpg?t=1784077432",
+   "at": "2026-10-23"
   },
   "1895810": {
    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
@@ -36064,6 +37071,16 @@
    "total": 44,
    "reviewsAt": "2026-10-12"
   },
+  "1950930": {
+   "name": "The Golden Eyed Ghosts",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1950930/header.jpg?t=1774490909",
+   "at": "2026-10-23"
+  },
   "1951410": {
    "name": "WE ARE FOOTBALL 2024",
    "type": "game",
@@ -36672,6 +37689,17 @@
    "total": 297,
    "reviewsAt": "2026-10-14"
   },
+  "1992640": {
+   "name": "Anime vs Evil: Apocalypse",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1992640/header.jpg?t=1760034514",
+   "at": "2026-10-23"
+  },
   "1993120": {
    "name": "Death Below",
    "type": "game",
@@ -37005,6 +38033,14 @@
    "total": 3282,
    "reviewsAt": "2026-10-11"
   },
+  "2011160": {
+   "name": "Puzzles with nature",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011160/header.jpg?t=1654773719",
+   "at": "2026-10-23"
+  },
   "2011780": {
    "name": "Yellow Taxi Goes Vroom",
    "type": "game",
@@ -37300,6 +38336,14 @@
    "total": 64,
    "reviewsAt": "2026-10-18"
   },
+  "2052790": {
+   "name": "Gardener: Master of Trees and Flowers",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052790/9241e10633756d95842b8eac72bcb6342c888fd8/header.jpg?t=1791743796",
+   "at": "2026-10-23"
+  },
   "2055290": {
    "name": "Sonic Colors: Ultimate",
    "type": "game",
@@ -37354,6 +38398,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057550/header.jpg?t=1691722136",
    "at": "2026-10-20"
+  },
+  "2057760": {
+   "name": "Esoteric Ebb",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/3fc3e737678a0d5db6816609bec2c9c6f2c11a88/header.jpg?t=1790693554",
+   "at": "2026-10-23"
   },
   "2058150": {
    "name": "Duck Paradox",
@@ -37411,6 +38463,14 @@
    "pos": 7078,
    "total": 8555,
    "reviewsAt": "2026-10-15"
+  },
+  "2059530": {
+   "name": "Dawn of Defiance",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059530/ed8d60850aa737f151d94b3e117bea958aadf5be/header_alt_assets_4.jpg?t=1791494982",
+   "at": "2026-10-23"
   },
   "2059570": {
    "name": "Forgotlings",
@@ -37566,6 +38626,14 @@
    "pos": 397,
    "total": 970,
    "reviewsAt": "2026-10-12"
+  },
+  "2066520": {
+   "name": "Ritual of Raven",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066520/f5d3e36bb325c195a8324335ff09c5380cf97aa2/header.jpg?t=1785401761",
+   "at": "2026-10-23"
   },
   "2067070": {
    "name": "Ragtag Heroes : CO-OP Deckbuilder",
@@ -38084,6 +39152,14 @@
    "total": 3,
    "reviewsAt": "2026-10-15"
   },
+  "2096030": {
+   "name": "Snow Plowing Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096030/5b6ea8a2725094fa4a4943bda81ee57feb340741/header.jpg?t=1791752550",
+   "at": "2026-10-23"
+  },
   "2096400": {
    "name": "TAMAKAGURA: Tales of Turmoil",
    "type": "game",
@@ -38535,6 +39611,14 @@
    "total": 45,
    "reviewsAt": "2026-10-15"
   },
+  "2113850": {
+   "name": "Spirit City: Lofi Sessions",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/dde323de28b5db2af88e7fda53ed3c4dc34280bf/header.jpg?t=1787580099",
+   "at": "2026-10-23"
+  },
   "2114300": {
    "name": "Chronique des Silencieux",
    "type": "game",
@@ -38657,6 +39741,22 @@
    "total": 20,
    "reviewsAt": "2026-10-14"
   },
+  "2121740": {
+   "name": "Entrepreneurial tycoon",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121740/header.jpg?t=1680159606",
+   "at": "2026-10-23"
+  },
+  "2122880": {
+   "name": "All Hands on Deck",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122880/dfd1d4cd6e38b4ddd2668b7d6f790214d8e106aa/header.jpg?t=1768496452",
+   "at": "2026-10-23"
+  },
   "2123100": {
    "name": "Kitty May Cry",
    "type": "game",
@@ -38667,6 +39767,17 @@
    "pos": 99,
    "total": 120,
    "reviewsAt": "2026-10-21"
+  },
+  "2124120": {
+   "name": "SULFUR",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/03b396d14a933238b49b0bfd434b59140f88435a/header.jpg?t=1792582904",
+   "at": "2026-10-23"
   },
   "2124380": {
    "name": "Super Lesbian Animal RPG",
@@ -38733,6 +39844,18 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129160/header.jpg?t=1729549375",
    "at": "2026-10-20"
+  },
+  "2129530": {
+   "name": "REANIMAL",
+   "type": "game",
+   "age": 18,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1791191985",
+   "at": "2026-10-23"
   },
   "2131460": {
    "name": "Talon's Blade",
@@ -39268,6 +40391,17 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/680ac087db67c922e0340548103235a7529ec5df/header.jpg?t=1788787557",
    "at": "2026-10-11"
   },
+  "2163330": {
+   "name": "Yet Another Zombie Survivors",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/d14101ee67beb9c952fd8e38ec015777356430a0/header.jpg?t=1792445075",
+   "at": "2026-10-23"
+  },
   "2164310": {
    "name": "Escape From Lavender Island",
    "type": "game",
@@ -39314,6 +40448,14 @@
    "pos": 252,
    "total": 424,
    "reviewsAt": "2026-10-17"
+  },
+  "2165620": {
+   "name": "Pool Cleaning Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165620/header.jpg?t=1791390183",
+   "at": "2026-10-23"
   },
   "2166020": {
    "name": "Hexworld",
@@ -39369,6 +40511,17 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168490/header.jpg?t=1774432437",
    "at": "2026-10-18"
+  },
+  "2168530": {
+   "name": "The Crimson Flower that Divides: Lunar Coupling",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168530/header.jpg?t=1686186193",
+   "at": "2026-10-23"
   },
   "2169570": {
    "name": "The Lost Legends of Redwall™: The Scout Anthology",
@@ -39655,6 +40808,18 @@
    "pos": 121,
    "total": 166,
    "reviewsAt": "2026-10-19"
+  },
+  "2191500": {
+   "name": "Vampires: Bloodlord Rising",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191500/891c979f6475cc4991017678fb4044c6e1b593a2/header.jpg?t=1792681431",
+   "at": "2026-10-23"
   },
   "2192790": {
    "name": "The Walking Dead: Destinies",
@@ -39992,6 +41157,14 @@
    "total": 57,
    "reviewsAt": "2026-10-13"
   },
+  "2215220": {
+   "name": "Jewel Match Winter Wonderland 2 Collector's Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215220/header.jpg?t=1726776507",
+   "at": "2026-10-23"
+  },
   "2216830": {
    "name": "The Jackbox Party Pack 10",
    "type": "game",
@@ -40267,6 +41440,14 @@
    "pos": 255,
    "total": 302,
    "reviewsAt": "2026-10-14"
+  },
+  "2229560": {
+   "name": "Zet Zillions",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229560/header.jpg?t=1766068339",
+   "at": "2026-10-23"
   },
   "2229900": {
    "name": "Chimera CUSTOM XG",
@@ -40758,6 +41939,14 @@
    "total": 36898,
    "reviewsAt": "2026-10-13"
   },
+  "2273850": {
+   "name": "Beacon Patrol",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273850/3041b9dc1f308ce812d6e9f21b8c62cf335f83c5/header.jpg?t=1790589297",
+   "at": "2026-10-23"
+  },
   "2273980": {
    "name": "Orcs Must Die! Deathtrap",
    "type": "game",
@@ -40935,6 +42124,14 @@
    "total": 114,
    "reviewsAt": "2026-10-16"
   },
+  "2283880": {
+   "name": "Shoulders of Giants: Ultimate",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2283880/header.jpg?t=1750704755",
+   "at": "2026-10-23"
+  },
   "2284800": {
    "name": "Arms Race 2",
    "type": "game",
@@ -40990,6 +42187,17 @@
    "total": 1174,
    "reviewsAt": "2026-10-11"
   },
+  "2287560": {
+   "name": "Vengeance of Mr. Peppermint",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287560/header.jpg?t=1772596081",
+   "at": "2026-10-23"
+  },
   "2288520": {
    "name": "The Quiet Things",
    "type": "game",
@@ -41019,6 +42227,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/053c0ba038a7b55c852a813c37fd71b5571df5b3/header_alt_assets_4.jpg?t=1790911208",
    "at": "2026-10-19"
+  },
+  "2289750": {
+   "name": "Super Fantasy Kingdom",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289750/595b7df498d33497078f1172311868cdee43ec5f/header.jpg?t=1792743906",
+   "at": "2026-10-23"
   },
   "2290180": {
    "name": "Riders Republic",
@@ -42041,6 +43257,14 @@
    "total": 23,
    "reviewsAt": "2026-10-21"
   },
+  "2350270": {
+   "name": "Primal Planet",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350270/header.jpg?t=1790073995",
+   "at": "2026-10-23"
+  },
   "2350280": {
    "name": "Monster Jam™ Showdown",
    "type": "game",
@@ -42227,6 +43451,14 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362090/header.jpg?t=1785222641",
    "at": "2026-10-16"
   },
+  "2362300": {
+   "name": "Train Sim World® 4",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362300/header.jpg?t=1764602167",
+   "at": "2026-10-23"
+  },
   "2364580": {
    "name": "Titanium Court",
    "type": "game",
@@ -42251,6 +43483,24 @@
    "pos": 70,
    "total": 98,
    "reviewsAt": "2026-10-17"
+  },
+  "2366970": {
+   "name": "Arco",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366970/header.jpg?t=1776481494",
+   "at": "2026-10-23"
+  },
+  "2367820": {
+   "name": "despelote",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2367820/header.jpg?t=1759948341",
+   "at": "2026-10-23"
   },
   "2368460": {
    "name": "Inkubus Sukkubus - She of a Thousand Names",
@@ -42450,6 +43700,14 @@
    "pos": 14,
    "total": 16,
    "reviewsAt": "2026-10-17"
+  },
+  "2383200": {
+   "name": "PATAPON 1+2 REPLAY",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2383200/header.jpg?t=1766123897",
+   "at": "2026-10-23"
   },
   "2383990": {
    "name": "Ghostbusters: Spirits Unleashed Ecto Edition",
@@ -42905,6 +44163,14 @@
    "total": 4,
    "reviewsAt": "2026-10-19"
   },
+  "2411560": {
+   "name": "Debtors' Club",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411560/header.jpg?t=1774473136",
+   "at": "2026-10-23"
+  },
   "2412240": {
    "name": "Bubble Ghost Remake",
    "type": "game",
@@ -42915,6 +44181,14 @@
    "pos": 74,
    "total": 74,
    "reviewsAt": "2026-10-16"
+  },
+  "2412280": {
+   "name": "Valiant Tactics",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412280/6eea030c5dbf8fec3a7f81000ceae8306fa45427/header.jpg?t=1772596616",
+   "at": "2026-10-23"
   },
   "2414270": {
    "name": "Sunderfolk",
@@ -43743,6 +45017,17 @@
    "total": 805,
    "reviewsAt": "2026-10-13"
   },
+  "2459840": {
+   "name": "Barbarian Saga: The Beastmaster",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459840/40108cab990d3fa9a61c503d056d74726b25d989/header.jpg?t=1788938141",
+   "at": "2026-10-23"
+  },
   "2461050": {
    "name": "晨昏线",
    "type": "game",
@@ -43797,6 +45082,17 @@
    "pos": 410,
    "total": 472,
    "reviewsAt": "2026-10-18"
+  },
+  "2463980": {
+   "name": "Werewolf: The Apocalypse — Purgatory",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2463980/header.jpg?t=1729174807",
+   "at": "2026-10-23"
   },
   "2464280": {
    "name": "Tormented Souls 2",
@@ -43982,6 +45278,14 @@
    "pos": 356,
    "total": 364,
    "reviewsAt": "2026-10-15"
+  },
+  "2475280": {
+   "name": "Card City Nights Forever",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475280/bc57001abc44cad0af34b7537222fa3d671b5741/header.jpg?t=1792156484",
+   "at": "2026-10-23"
   },
   "2475490": {
    "name": "Mouthwashing",
@@ -44178,6 +45482,14 @@
    "pos": 30,
    "total": 37,
    "reviewsAt": "2026-10-13"
+  },
+  "2488370": {
+   "name": "Cash Cleaner Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488370/9a0f03eb9e77649696d52726b646c24010773082/header.jpg?t=1786618673",
+   "at": "2026-10-23"
   },
   "2489000": {
    "name": "RAGER",
@@ -44395,6 +45707,17 @@
    "total": 4032,
    "reviewsAt": "2026-10-16"
   },
+  "2504380": {
+   "name": "Survival Nation: Lost Horizon",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504380/header.jpg?t=1774490154",
+   "at": "2026-10-23"
+  },
   "2505510": {
    "name": "Artisan Story",
    "type": "game",
@@ -44532,6 +45855,14 @@
    "total": 109,
    "reviewsAt": "2026-10-20"
   },
+  "2510970": {
+   "name": "The Dream Office",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510970/8f85cb3e23103bffc7864f5413611c84fed9470e/header.jpg?t=1791752644",
+   "at": "2026-10-23"
+  },
   "2511210": {
    "name": "Gunboat God",
    "type": "game",
@@ -44586,6 +45917,14 @@
    "pos": 201,
    "total": 270,
    "reviewsAt": "2026-10-13"
+  },
+  "2512450": {
+   "name": "SoulQuest",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512450/a2cc729f0fb8412a6c05f401f40bf9b9ae1b77c1/header.jpg?t=1777678348",
+   "at": "2026-10-23"
   },
   "2512560": {
    "name": "Butcher's Creek",
@@ -45499,6 +46838,14 @@
    "total": 17,
    "reviewsAt": "2026-10-20"
   },
+  "2569670": {
+   "name": "Farmer's Dynasty 2",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569670/d9c8da7df7238135193fd36f26c4baa0844946b5/header.jpg?t=1788250452",
+   "at": "2026-10-23"
+  },
   "2570210": {
    "name": "Eden Crafters",
    "type": "game",
@@ -45623,6 +46970,25 @@
    "pos": 101,
    "total": 103,
    "reviewsAt": "2026-10-19"
+  },
+  "2585580": {
+   "name": "Legacy of Sin: Ill-Boding",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585580/272147477931225520ed156c4c1a349f57afdadd/header.jpg?t=1779384681",
+   "at": "2026-10-23"
+  },
+  "2585830": {
+   "name": "Promise Mascot Agency",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    1,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585830/header.jpg?t=1773057797",
+   "at": "2026-10-23"
   },
   "2587590": {
    "name": "Iridio",
@@ -46068,6 +47434,16 @@
    "pos": 1,
    "total": 1,
    "reviewsAt": "2026-10-18"
+  },
+  "2622280": {
+   "name": "Shell Runner",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622280/header.jpg?t=1774489837",
+   "at": "2026-10-23"
   },
   "2622850": {
    "name": "Avium",
@@ -46912,6 +48288,16 @@
    "total": 0,
    "reviewsAt": "2026-10-20"
   },
+  "2680670": {
+   "name": "Wardrum",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680670/757474155250659dc1aff0a30e10c920f38885d5/header.jpg?t=1778253606",
+   "at": "2026-10-23"
+  },
   "2685490": {
    "name": "Detective Hayseed - The Cloning Madness",
    "type": "game",
@@ -47262,6 +48648,14 @@
    "total": 96,
    "reviewsAt": "2026-10-18"
   },
+  "2711030": {
+   "name": "Sugardew Island - Your cozy farm shop",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2711030/ccdaf11bb358342c08d9287ed9cf1dc5118bbaf9/header.jpg?t=1779794266",
+   "at": "2026-10-23"
+  },
   "2711210": {
    "name": "Mind Keeper",
    "type": "game",
@@ -47509,6 +48903,14 @@
    "pos": 79,
    "total": 86,
    "reviewsAt": "2026-10-16"
+  },
+  "2730810": {
+   "name": "EVERYBODY'S GOLF HOT SHOTS",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2730810/fc0dcea45adde5a32dcb1111192a68034c1e37c4/header.jpg?t=1783534122",
+   "at": "2026-10-23"
   },
   "2732800": {
    "name": "Stitched Together",
@@ -47780,6 +49182,14 @@
    "total": 2560,
    "reviewsAt": "2026-10-12"
   },
+  "2754370": {
+   "name": "Voidsayer",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754370/07c9811c55e1463e1f7d5b18c8f941b778dbd16d/header.jpg?t=1791586014",
+   "at": "2026-10-23"
+  },
   "2756770": {
    "name": "Tavern Manager Simulator 🍻",
    "type": "game",
@@ -47834,6 +49244,17 @@
    "pos": 21,
    "total": 26,
    "reviewsAt": "2026-10-17"
+  },
+  "2761000": {
+   "name": "Tales of Old: Dominus",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761000/92544f7946a3760515490c3d1e6d693a1eef2f41/header.jpg?t=1762189186",
+   "at": "2026-10-23"
   },
   "2761220": {
    "name": "Escape from 8-Bit High",
@@ -48113,6 +49534,14 @@
    "total": 6,
    "reviewsAt": "2026-10-20"
   },
+  "2797340": {
+   "name": "Cat God Ranch",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/735634fa50b74b0b91287ed90ea699391d559994/header.jpg?t=1777990167",
+   "at": "2026-10-23"
+  },
   "2797640": {
    "name": "Rogue Night",
    "type": "game",
@@ -48280,6 +49709,14 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812670/fda24a7a9715d4be73414f9b169cf83696aa95b0/header.jpg?t=1756732120",
    "at": "2026-10-21"
   },
+  "2815080": {
+   "name": "Forgotten 23",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815080/header.jpg?t=1779313804",
+   "at": "2026-10-23"
+  },
   "2816570": {
    "name": "The Land of the Magnates",
    "type": "game",
@@ -48438,6 +49875,14 @@
    "pos": 484,
    "total": 631,
    "reviewsAt": "2026-10-20"
+  },
+  "2824490": {
+   "name": "He is Coming",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/02598f72d80e7c5da9f4b418f7fce15532d60388/header.jpg?t=1792743712",
+   "at": "2026-10-23"
   },
   "2825300": {
    "name": "AMANATSU ~Perfect Edition~",
@@ -49056,6 +50501,14 @@
    "total": 12,
    "reviewsAt": "2026-10-11"
   },
+  "2866640": {
+   "name": "A Death in the Red Light",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866640/header.jpg?t=1777411239",
+   "at": "2026-10-23"
+  },
   "2866670": {
    "name": "NBA THE RUN",
    "type": "game",
@@ -49066,6 +50519,14 @@
    "pos": 665,
    "total": 985,
    "reviewsAt": "2026-10-17"
+  },
+  "2867470": {
+   "name": "Collector's Cove",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867470/835f84e267f5a97f763560652f03e5601c43e002/header.jpg?t=1788357817",
+   "at": "2026-10-23"
   },
   "2868530": {
    "name": "Leo: The Firefighter Cat",
@@ -49168,6 +50629,14 @@
    "total": 65,
    "reviewsAt": "2026-10-16"
   },
+  "2875570": {
+   "name": "Towers & Goblins: The Last Stand",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2875570/header.jpg?t=1788082344",
+   "at": "2026-10-23"
+  },
   "2877770": {
    "name": "Into the Restless Ruins",
    "type": "game",
@@ -49178,6 +50647,14 @@
    "pos": 113,
    "total": 132,
    "reviewsAt": "2026-10-15"
+  },
+  "2878030": {
+   "name": "Moon Watch",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/header.jpg?t=1733569659",
+   "at": "2026-10-23"
   },
   "2878220": {
    "name": "Space Adventure Cobra - The Awakening",
@@ -49211,6 +50688,14 @@
    "pos": 11,
    "total": 19,
    "reviewsAt": "2026-10-10"
+  },
+  "2878390": {
+   "name": "Conjurers",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878390/79632207650a928ea3bbbed19ebe25588b505e8e/header.jpg?t=1790633813",
+   "at": "2026-10-23"
   },
   "2879090": {
    "name": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
@@ -49442,6 +50927,14 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2903630/4720d9ac080b48f649d23f820bb00057e33a93cd/header.jpg?t=1778925691",
    "at": "2026-10-17"
+  },
+  "2903710": {
+   "name": "Lost Lullabies: The Orphanage Chronicles",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2903710/6fa1dd9f3cd60f2d8a7cba0b2691db68e04b45cd/header.jpg?t=1792565198",
+   "at": "2026-10-23"
   },
   "2903950": {
    "name": "Master Detective Archives: RAIN CODE Plus",
@@ -50755,6 +52248,14 @@
    "total": 3,
    "reviewsAt": "2026-10-19"
   },
+  "3015190": {
+   "name": "Rap Pop Jump Core",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015190/header.jpg?t=1779167372",
+   "at": "2026-10-23"
+  },
   "3016890": {
    "name": "Vibrant Frame",
    "type": "game",
@@ -50765,6 +52266,16 @@
    "pos": 63,
    "total": 67,
    "reviewsAt": "2026-10-15"
+  },
+  "3017330": {
+   "name": "Verho - Curse of Faces",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017330/d80e6e048a63d15bd3bc35a2ac0e41f7ec1e639b/header.jpg?t=1791554551",
+   "at": "2026-10-23"
   },
   "3017860": {
    "name": "DOOM: The Dark Ages",
@@ -50922,6 +52433,22 @@
    "pos": 3,
    "total": 3,
    "reviewsAt": "2026-10-17"
+  },
+  "3032560": {
+   "name": "Jam Jump",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032560/header.jpg?t=1722267781",
+   "at": "2026-10-23"
+  },
+  "3034650": {
+   "name": "BloomKeeper",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034650/19a255221bcd29052ca2d0c568d040cd9d1cfe6b/header.jpg?t=1791462284",
+   "at": "2026-10-23"
   },
   "3035360": {
    "name": "Hop 'n' Marty",
@@ -51516,6 +53043,14 @@
    "total": 1,
    "reviewsAt": "2026-10-14"
   },
+  "3094210": {
+   "name": "Nullstar: Solus",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094210/aad001afeff73493527371b380613ee140885280/header.jpg?t=1792699217",
+   "at": "2026-10-23"
+  },
   "3094970": {
    "name": "Spires of Morosith: Gossamer Sundered",
    "type": "game",
@@ -51627,6 +53162,14 @@
    "pos": 16,
    "total": 20,
    "reviewsAt": "2026-10-18"
+  },
+  "3113510": {
+   "name": "Skidaddle Skidoodle",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/header.jpg?t=1782383194",
+   "at": "2026-10-23"
   },
   "3115650": {
    "name": "Tactic Legends",
@@ -51742,6 +53285,14 @@
    "total": 3335,
    "reviewsAt": "2026-10-12"
   },
+  "3123800": {
+   "name": "Tempest Tower",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123800/header.jpg?t=1788857440",
+   "at": "2026-10-23"
+  },
   "3124540": {
    "name": "Far Far West",
    "type": "game",
@@ -51844,6 +53395,14 @@
    "pos": 625,
    "total": 801,
    "reviewsAt": "2026-10-12"
+  },
+  "3133020": {
+   "name": "Cozyrama",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133020/1dc89494b6601893a64b94c797c2640e9afcfb76/header.jpg?t=1779890639",
+   "at": "2026-10-23"
   },
   "3133710": {
    "name": "Pilgrim: Descent Protocol",
@@ -52250,6 +53809,16 @@
    "total": 393,
    "reviewsAt": "2026-10-15"
   },
+  "3180670": {
+   "name": "Undying Flower",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180670/79ac1f7cd257a18964c80946e082727b33dd6511/header.jpg?t=1782406632",
+   "at": "2026-10-23"
+  },
   "3180830": {
    "name": "Circuit Stance",
    "type": "game",
@@ -52359,6 +53928,14 @@
    "pos": 45,
    "total": 50,
    "reviewsAt": "2026-10-11"
+  },
+  "3198890": {
+   "name": "Scale the Depths",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3198890/eef9d7cb8fba1483b79c30fd83e6fb6a83d85d6b/header.jpg?t=1790073841",
+   "at": "2026-10-23"
   },
   "3199380": {
    "name": "Shadowhand Solitaire",
@@ -52599,6 +54176,14 @@
    "total": 333,
    "reviewsAt": "2026-10-14"
   },
+  "3214610": {
+   "name": "Cinderia",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1787153526",
+   "at": "2026-10-23"
+  },
   "3215290": {
    "name": "Alien Market Simulator",
    "type": "game",
@@ -52644,6 +54229,14 @@
    "pos": 55,
    "total": 56,
    "reviewsAt": "2026-10-17"
+  },
+  "3217090": {
+   "name": "Jewel Match Dracula Collector's Edition",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217090/header.jpg?t=1729877706",
+   "at": "2026-10-23"
   },
   "3218530": {
    "name": "Best Served Cold",
@@ -52795,6 +54388,17 @@
    "total": 5649,
    "reviewsAt": "2026-10-15"
   },
+  "3226540": {
+   "name": "Void Scout",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226540/9f4dc2bdc7d3db19eda120afcb99dc3c7c607d6b/header.jpg?t=1772597733",
+   "at": "2026-10-23"
+  },
   "3227760": {
    "name": "Paper Bride 6 Nightmare",
    "type": "game",
@@ -52849,6 +54453,14 @@
    "pos": 52,
    "total": 55,
    "reviewsAt": "2026-10-21"
+  },
+  "3237920": {
+   "name": "Mech Havoc",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237920/1d76ce0d7fcb1694202ec9110252344f00adfa62/header.jpg?t=1790074392",
+   "at": "2026-10-23"
   },
   "3238690": {
    "name": "Arinoa: Conquest",
@@ -53379,6 +54991,14 @@
    "total": 10706,
    "reviewsAt": "2026-10-21"
   },
+  "3294440": {
+   "name": "Memoirium",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3294440/2d66d4a465ff16d329142d323ab3bfe1dab0cdfe/header.jpg?t=1787405442",
+   "at": "2026-10-23"
+  },
   "3294630": {
    "name": "Mini Racer Car Shop Simulator",
    "type": "game",
@@ -53422,6 +55042,14 @@
    "descriptors": [],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296830/1c8684cb5e8664f7e92b2b2e187584b32dd9b9b9/header.jpg?t=1791518205",
    "at": "2026-10-17"
+  },
+  "3298910": {
+   "name": "Once a Pawn a King",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3298910/70486364b3600ea21826d071d0386c43fa12bca5/header.jpg?t=1782406764",
+   "at": "2026-10-23"
   },
   "3299050": {
    "name": "No Such Place",
@@ -54404,6 +56032,22 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3409460/header.jpg?t=1790522941",
    "at": "2026-10-15"
   },
+  "3411970": {
+   "name": "The Abbess Garden",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411970/01b8cdf4a7781d5ae7e60b76909a98269cdcaa32/header.jpg?t=1791994903",
+   "at": "2026-10-23"
+  },
+  "3412160": {
+   "name": "The House Always Wins",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412160/66f58c092f04454c881077bd05e8c295594a3ba5/header_alt_assets_1.jpg?t=1792735643",
+   "at": "2026-10-23"
+  },
   "3412270": {
    "name": "Encounter: The Lost Cards",
    "type": "game",
@@ -54849,6 +56493,14 @@
    "total": 2,
    "reviewsAt": "2026-10-19"
   },
+  "3469900": {
+   "name": "Legend of the Crystal Skulls",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469900/0a97ffd453c2125e30aca72dbc04faf7bdf642a3/header.jpg?t=1790896044",
+   "at": "2026-10-23"
+  },
   "3472040": {
    "name": "NBA 2K26",
    "type": "game",
@@ -55064,6 +56716,14 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500880/5a22e112726f553b93f67168f17fcd4a938cd5a9/header_alt_assets_4.jpg?t=1791741150",
    "at": "2026-10-18"
   },
+  "3501540": {
+   "name": "Spiritstead",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3501540/f26c13c8840b8380e9c870f4f514539d50c504d6/header_alt_assets_0.jpg?t=1791972752",
+   "at": "2026-10-23"
+  },
   "3503790": {
    "name": "PROHIBEAST",
    "type": "game",
@@ -55107,6 +56767,14 @@
    "pos": 188,
    "total": 236,
    "reviewsAt": "2026-10-20"
+  },
+  "3509230": {
+   "name": "Gambonanza",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/header.jpg?t=1787236729",
+   "at": "2026-10-23"
   },
   "3509460": {
    "name": "Through the Edges",
@@ -55197,6 +56865,17 @@
    "pos": 5785,
    "total": 7544,
    "reviewsAt": "2026-10-19"
+  },
+  "3527760": {
+   "name": "RoboCop: Rogue City - Unfinished Business",
+   "type": "game",
+   "age": 17,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527760/header.jpg?t=1778174296",
+   "at": "2026-10-23"
   },
   "3527810": {
    "name": "Rudolph the Red-Nosed Reindeer",
@@ -55421,6 +57100,14 @@
    ],
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567620/2eeb4d51cdf55ec9b0141e386fe7a4ba1c2965dd/header.jpg?t=1789541548",
    "at": "2026-10-19"
+  },
+  "3569500": {
+   "name": "Card Shop Simulator Multiplayer",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569500/c8cf36a77e591a2bd4db2e0852da2209410a18c4/header.jpg?t=1784000862",
+   "at": "2026-10-23"
   },
   "3569950": {
    "name": "Everdream Village",
@@ -55772,6 +57459,14 @@
    "total": 32,
    "reviewsAt": "2026-10-20"
   },
+  "3636470": {
+   "name": "Dream Abyss: Survivors",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636470/f70ca681453f380f2f44ab8b233f796398c56797/header.jpg?t=1764476020",
+   "at": "2026-10-23"
+  },
   "3636530": {
    "name": "Dungeon Maiden: Survivor",
    "type": "game",
@@ -56008,6 +57703,14 @@
    "total": 74,
    "reviewsAt": "2026-10-21"
   },
+  "3669570": {
+   "name": "Alchemy Factory",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669570/da84f32f1e93388acac5b683e52e9ea143f10f38/header.jpg?t=1789021559",
+   "at": "2026-10-23"
+  },
   "3670580": {
    "name": "TownsFolk",
    "type": "game",
@@ -56176,6 +57879,14 @@
    "pos": 33,
    "total": 34,
    "reviewsAt": "2026-10-15"
+  },
+  "3690760": {
+   "name": "Wild West Supermarket Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690760/5ae8186ca7c9f77fcc85fe9ea1e08ca6e6c9e0d4/header.jpg?t=1782475455",
+   "at": "2026-10-23"
   },
   "3693620": {
    "name": "137",
@@ -56479,6 +58190,14 @@
    "pos": 0,
    "total": 1,
    "reviewsAt": "2026-10-16"
+  },
+  "3749130": {
+   "name": "Tower Tactics II",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749130/1a2cab8da2d63806d060f415918897f309673883/header.jpg?t=1791798821",
+   "at": "2026-10-23"
   },
   "3749330": {
    "name": "A Storied Life: Tabitha",
@@ -57158,6 +58877,14 @@
    "total": 432,
    "reviewsAt": "2026-10-17"
   },
+  "3887090": {
+   "name": "Airport Baggage Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3887090/747323dfd16b7e6ace2319810ddb908cb2fcac89/header.jpg?t=1790859185",
+   "at": "2026-10-23"
+  },
   "3887370": {
    "name": "Luxuriant",
    "type": "game",
@@ -57245,6 +58972,14 @@
    "pos": 27,
    "total": 27,
    "reviewsAt": "2026-10-16"
+  },
+  "3902470": {
+   "name": "Etude",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902470/aeaf78ff3b0c5d36f96203013f1376715b6ca4a3/header.jpg?t=1792147205",
+   "at": "2026-10-23"
   },
   "3903650": {
    "name": "FROST x HIME",
@@ -57860,6 +59595,14 @@
    "total": 26,
    "reviewsAt": "2026-10-20"
   },
+  "4026250": {
+   "name": "Project P.I.T.T.",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026250/066d9c477e4883dd31e5db4d3b0236a3c70cec3f/header.jpg?t=1790073225",
+   "at": "2026-10-23"
+  },
   "4026480": {
    "name": "Cafe Business Manager",
    "type": "game",
@@ -58018,6 +59761,17 @@
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057050/1b7418eef308fdf157f77c7c92dada8844da121f/header.jpg?t=1787101636",
    "at": "2026-10-14"
   },
+  "4064510": {
+   "name": "MOLE",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064510/60fb8a75026cf12766973a335f00dc360b30b61b/header.jpg?t=1786543749",
+   "at": "2026-10-23"
+  },
   "4065580": {
    "name": "Alfred's Alien Abduction Adventure",
    "type": "game",
@@ -58050,6 +59804,14 @@
    "pos": 0,
    "total": 0,
    "reviewsAt": "2026-10-14"
+  },
+  "4069520": {
+   "name": "Super Battle Golf",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg?t=1792480775",
+   "at": "2026-10-23"
   },
   "4072850": {
    "name": "Isle of Food",
@@ -58370,6 +60132,14 @@
    "total": 9,
    "reviewsAt": "2026-10-19"
   },
+  "4169060": {
+   "name": "Office Manager",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169060/d5aafac6e056e481ba3fe864e4e86aad018ed63b/header.jpg?t=1791968508",
+   "at": "2026-10-23"
+  },
   "4175140": {
    "name": "3D Escape Room: Cursed Legacy",
    "type": "game",
@@ -58451,6 +60221,14 @@
    "pos": 52,
    "total": 63,
    "reviewsAt": "2026-10-19"
+  },
+  "4194550": {
+   "name": "ElectroFix Simulator",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194550/3dbf1013a515437f62a60d2f712ed3fa7e170f70/header.jpg?t=1782226433",
+   "at": "2026-10-23"
   },
   "4197020": {
    "name": "Sol and Mani the Artifact ",
@@ -60244,6 +62022,14 @@
    "total": 3,
    "reviewsAt": "2026-10-20"
   },
+  "5090060": {
+   "name": "Starlathe",
+   "type": "game",
+   "age": 0,
+   "descriptors": [],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5090060/f2390ac9864a76e25957a8b190bf9e0206d3dd76/header.jpg?t=1792362079",
+   "at": "2026-10-23"
+  },
   "5096190": {
    "name": "Footy Manager",
    "type": "game",
@@ -60320,6 +62106,17 @@
    "pos": 14,
    "total": 14,
    "reviewsAt": "2026-10-18"
+  },
+  "5342930": {
+   "name": "Dementium II",
+   "type": "game",
+   "age": 0,
+   "descriptors": [
+    2,
+    5
+   ],
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5342930/d60f8d81a5883693cbc0cd54854340290b1451d4/header.jpg?t=1792528486",
+   "at": "2026-10-23"
   }
  }
 }
